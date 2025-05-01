@@ -12,8 +12,8 @@ from asyncio import Semaphore
 import pandas as pd
 
 # YEARS = [2021, 2022, 2023, 2024]
-YEARS = [2023] # doing year by year to avoid OpenReviewLimit
-BASE_URL = "https://iclr.cc/"
+YEARS = [2023] # doing year by year to avoid OpenReview Limit
+BASE_URL = "https://iclr.cc"
 DOWNLOAD_DIR = "downloaded_pdfs"
 CSV_FILE = "papers.csv"
 MAX_CONCURRENT_REQUESTS = 3  # Reduced from 5 to avoid overwhelming the server
@@ -99,7 +99,7 @@ async def get_paper_links(session, url) -> (str, list[str]):
 
     # Get links to individual presentations
     talk_links = [
-        BASE_URL[:-1] + a['href'] for a in subsoup.select('h5 strong a[href^="/virtual/"]')
+        BASE_URL + a['href'] for a in subsoup.select('h5 strong a[href^="/virtual/"]')
         if a.text.strip() != "Q&A"]
 
     return session_name, talk_links
@@ -272,10 +272,10 @@ async def main():
 
         # Process each year in smaller chunks
         for year in tqdm(YEARS, desc="Processing years"):
-            year_url = f"{BASE_URL}virtual/{year}/calendar"
+            year_url = f"{BASE_URL}/virtual/{year}/calendar"
             oral_links = await get_oral_links(session, year_url)
             logging.info(f"Found {len(oral_links)} orals for {year_url}")
-            df = get_conference_notes() if year == 2023 else None
+            df = get_conference_notes(blind_submission=True) if year == 2023 else None
 
             with tqdm(
                 total=len(oral_links),
