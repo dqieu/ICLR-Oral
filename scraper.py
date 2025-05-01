@@ -224,7 +224,7 @@ async def process_papers_from_orals(session, oral_url, pbar, df = None):
                 break
 
         metadata = {
-            "title": title,
+            "title": sanitize_filename(title),
             "author": authors,
             "abstract": abstract,
             "openreview_url": openreview_link,
