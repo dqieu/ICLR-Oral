@@ -1310,3 +1310,1016 @@
 2025-04-29 21:46:49,553 - INFO - Processed: Detecting, Explaining, and Mitigating Memorization in Diffusion Models
 2025-04-29 21:46:49,571 - INFO - Skipping existing PDF: downloaded_pdfs\Improved Active Learning via Dependent Leverage Score Sampling.pdf
 2025-04-29 21:46:49,572 - INFO - Processed: Improved Active Learning via Dependent Leverage Score Sampling
+2025-05-06 15:56:10,224 - INFO - Found 22 orals for https://neurips.cc/virtual/2023/calendar
+2025-05-06 15:56:42,486 - INFO - Found 22 orals for https://neurips.cc/virtual/2023/calendar
+2025-05-06 15:56:46,119 - INFO - Downloaded: How to Turn Your Knowledge Graph Embeddings into Generative Models
+2025-05-06 15:56:46,120 - INFO - Processed: How to Turn Your Knowledge Graph Embeddings into Generative Models
+2025-05-06 15:56:46,125 - INFO - Downloaded: Ordering-based Conditions for Global Convergence of Policy Gradient Methods
+2025-05-06 15:56:46,126 - INFO - Processed: Ordering-based Conditions for Global Convergence of Policy Gradient Methods
+2025-05-06 15:56:46,244 - INFO - Downloaded: LeanDojo: Theorem Proving with Retrieval-Augmented Language Models
+2025-05-06 15:56:46,245 - INFO - Processed: LeanDojo: Theorem Proving with Retrieval-Augmented Language Models
+2025-05-06 15:56:46,310 - INFO - Downloaded: Sharpness Minimization Algorithms Do Not Only Minimize Sharpness To Achieve Better Generalization
+2025-05-06 15:56:46,311 - INFO - Processed: Sharpness Minimization Algorithms Do Not Only Minimize Sharpness To Achieve Better Generalization
+2025-05-06 15:56:46,379 - INFO - Downloaded: Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture
+2025-05-06 15:56:46,380 - INFO - Processed: Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture
+2025-05-06 15:56:46,465 - INFO - Downloaded: Learning Linear Causal Representations from Interventions under General Nonlinear Mixing
+2025-05-06 15:56:46,467 - INFO - Processed: Learning Linear Causal Representations from Interventions under General Nonlinear Mixing
+2025-05-06 15:56:46,611 - INFO - Downloaded: Nearly Tight Bounds For Differentially Private Multiway Cut
+2025-05-06 15:56:46,612 - INFO - Processed: Nearly Tight Bounds For Differentially Private Multiway Cut
+2025-05-06 15:56:46,730 - INFO - Downloaded: Rotating Features for Object Discovery
+2025-05-06 15:56:46,731 - INFO - Processed: Rotating Features for Object Discovery
+2025-05-06 15:56:46,793 - INFO - Downloaded: ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings
+2025-05-06 15:56:46,795 - INFO - Processed: ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings
+2025-05-06 15:56:47,210 - INFO - Downloaded: Understanding Diffusion Objectives as the ELBO with Simple Data Augmentation
+2025-05-06 15:56:47,211 - INFO - Processed: Understanding Diffusion Objectives as the ELBO with Simple Data Augmentation
+2025-05-06 15:56:47,262 - INFO - Downloaded: Mesogeos: A multi-purpose dataset for data-driven wildfire modeling in the Mediterranean
+2025-05-06 15:56:47,263 - INFO - Processed: Mesogeos: A multi-purpose dataset for data-driven wildfire modeling in the Mediterranean
+2025-05-06 15:56:47,462 - INFO - Downloaded: Students Parrot Their Teachers: Membership Inference on Model Distillation
+2025-05-06 15:56:47,463 - INFO - Processed: Students Parrot Their Teachers: Membership Inference on Model Distillation
+2025-05-06 15:56:47,528 - INFO - Downloaded: A Single-Loop Accelerated Extra-Gradient Difference Algorithm with Improved Complexity Bounds for Constrained Minimax Optimization
+2025-05-06 15:56:47,529 - INFO - Processed: A Single-Loop Accelerated Extra-Gradient Difference Algorithm with Improved Complexity Bounds for Constrained Minimax Optimization
+2025-05-06 15:56:47,562 - INFO - Downloaded: Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models
+2025-05-06 15:56:47,563 - INFO - Processed: Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models
+2025-05-06 15:56:47,621 - INFO - Downloaded: Why think step by step? Reasoning emerges from the locality of experience
+2025-05-06 15:56:47,621 - INFO - Processed: Why think step by step? Reasoning emerges from the locality of experience
+2025-05-06 15:56:47,734 - INFO - Downloaded: Going beyond persistent homology using persistent homology
+2025-05-06 15:56:47,735 - INFO - Processed: Going beyond persistent homology using persistent homology
+2025-05-06 15:56:47,800 - INFO - Downloaded: Visual Instruction Tuning
+2025-05-06 15:56:47,801 - INFO - Processed: Visual Instruction Tuning
+2025-05-06 15:56:47,860 - INFO - Downloaded: Sampling from Gaussian Process Posteriors using Stochastic Gradient Descent
+2025-05-06 15:56:47,861 - INFO - Processed: Sampling from Gaussian Process Posteriors using Stochastic Gradient Descent
+2025-05-06 15:56:47,902 - INFO - Downloaded: Are Emergent Abilities of Large Language Models a Mirage?
+2025-05-06 15:56:47,902 - INFO - Processed: Are Emergent Abilities of Large Language Models a Mirage?
+2025-05-06 15:56:48,019 - INFO - Downloaded: Optimal Learners for Realizable Regression: PAC Learning and Online Learning
+2025-05-06 15:56:48,021 - INFO - Processed: Optimal Learners for Realizable Regression: PAC Learning and Online Learning
+2025-05-06 15:56:48,057 - INFO - Downloaded: When Do Transformers Shine in RL? Decoupling Memory from Credit Assignment
+2025-05-06 15:56:48,058 - INFO - Processed: When Do Transformers Shine in RL? Decoupling Memory from Credit Assignment
+2025-05-06 15:56:48,195 - INFO - Downloaded: Siamese Masked Autoencoders
+2025-05-06 15:56:48,197 - INFO - Processed: Siamese Masked Autoencoders
+2025-05-06 15:56:49,630 - INFO - Downloaded: Exact Bayesian Inference on Discrete Models via Probability Generating Functions: A Probabilistic Programming Approach
+2025-05-06 15:56:49,633 - INFO - Processed: Exact Bayesian Inference on Discrete Models via Probability Generating Functions: A Probabilistic Programming Approach
+2025-05-06 15:56:49,772 - INFO - Downloaded: OpenAssistant Conversations - Democratizing Large Language Model Alignment
+2025-05-06 15:56:49,775 - INFO - Processed: OpenAssistant Conversations - Democratizing Large Language Model Alignment
+2025-05-06 15:56:49,784 - INFO - Downloaded: Abide by the law and follow the flow: conservation laws for gradient flows
+2025-05-06 15:56:49,786 - INFO - Processed: Abide by the law and follow the flow: conservation laws for gradient flows
+2025-05-06 15:56:49,814 - INFO - Downloaded: When Demonstrations meet Generative World Models: A Maximum Likelihood Framework for Offline Inverse Reinforcement Learning
+2025-05-06 15:56:49,816 - INFO - Processed: When Demonstrations meet Generative World Models: A Maximum Likelihood Framework for Offline Inverse Reinforcement Learning
+2025-05-06 15:56:49,914 - INFO - Downloaded: A Measure-Theoretic Axiomatisation of Causality
+2025-05-06 15:56:49,916 - INFO - Processed: A Measure-Theoretic Axiomatisation of Causality
+2025-05-06 15:56:49,956 - INFO - Downloaded: QLoRA: Efficient Finetuning of Quantized LLMs
+2025-05-06 15:56:49,958 - INFO - Processed: QLoRA: Efficient Finetuning of Quantized LLMs
+2025-05-06 15:56:49,988 - INFO - Downloaded: Privacy Auditing with One (1) Training Run
+2025-05-06 15:56:49,990 - INFO - Processed: Privacy Auditing with One (1) Training Run
+2025-05-06 15:56:50,168 - INFO - Downloaded: Toolformer: Language Models Can Teach Themselves to Use Tools
+2025-05-06 15:56:50,171 - INFO - Processed: Toolformer: Language Models Can Teach Themselves to Use Tools
+2025-05-06 15:56:50,444 - INFO - Downloaded: ClimSim: A large multi-scale dataset for hybrid physics-ML climate emulation
+2025-05-06 15:56:50,445 - INFO - Processed: ClimSim: A large multi-scale dataset for hybrid physics-ML climate emulation
+2025-05-06 15:56:50,466 - INFO - Downloaded: Entropic Neural Optimal Transport via Diffusion Processes
+2025-05-06 15:56:50,468 - INFO - Processed: Entropic Neural Optimal Transport via Diffusion Processes
+2025-05-06 15:56:50,585 - INFO - Downloaded: Linguistic Binding in Diffusion Models: Enhancing Attribute Correspondence through Attention Map Alignment
+2025-05-06 15:56:50,586 - INFO - Processed: Linguistic Binding in Diffusion Models: Enhancing Attribute Correspondence through Attention Map Alignment
+2025-05-06 15:56:50,642 - INFO - Downloaded: Rethinking Bias Mitigation: Fairer Architectures Make for Fairer Face Recognition
+2025-05-06 15:56:50,643 - INFO - Processed: Rethinking Bias Mitigation: Fairer Architectures Make for Fairer Face Recognition
+2025-05-06 15:56:50,738 - INFO - Downloaded: Smoothing the Landscape Boosts the Signal for SGD: Optimal Sample Complexity for Learning Single Index Models
+2025-05-06 15:56:50,740 - INFO - Processed: Smoothing the Landscape Boosts the Signal for SGD: Optimal Sample Complexity for Learning Single Index Models
+2025-05-06 15:56:50,813 - INFO - Downloaded: Clifford Group Equivariant Neural Networks
+2025-05-06 15:56:50,815 - INFO - Processed: Clifford Group Equivariant Neural Networks
+2025-05-06 15:56:50,861 - INFO - Downloaded: Tree of Thoughts: Deliberate Problem Solving with Large Language Models
+2025-05-06 15:56:50,863 - INFO - Processed: Tree of Thoughts: Deliberate Problem Solving with Large Language Models
+2025-05-06 15:56:51,023 - INFO - Downloaded: EgoEnv: Human-centric environment representations from egocentric video
+2025-05-06 15:56:51,024 - INFO - Processed: EgoEnv: Human-centric environment representations from egocentric video
+2025-05-06 15:56:51,034 - INFO - Downloaded: A Rigorous Link between Deep Ensembles and (Variational) Bayesian Methods
+2025-05-06 15:56:51,035 - INFO - Processed: A Rigorous Link between Deep Ensembles and (Variational) Bayesian Methods
+2025-05-06 15:56:51,097 - INFO - Downloaded: Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity
+2025-05-06 15:56:51,098 - INFO - Processed: Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity
+2025-05-06 15:56:51,206 - INFO - Downloaded: Random Cuts are Optimal for Explainable k-Medians
+2025-05-06 15:56:51,208 - INFO - Processed: Random Cuts are Optimal for Explainable k-Medians
+2025-05-06 15:56:51,331 - INFO - Downloaded: Bridging RL Theory and Practice with the Effective Horizon
+2025-05-06 15:56:51,333 - INFO - Processed: Bridging RL Theory and Practice with the Effective Horizon
+2025-05-06 15:56:51,373 - INFO - Downloaded: Task Arithmetic in the Tangent Space: Improved Editing of Pre-Trained Models
+2025-05-06 15:56:51,375 - INFO - Processed: Task Arithmetic in the Tangent Space: Improved Editing of Pre-Trained Models
+2025-05-06 15:56:51,552 - INFO - Downloaded: Image Captioners Are Scalable Vision Learners Too
+2025-05-06 15:56:51,554 - INFO - Processed: Image Captioners Are Scalable Vision Learners Too
+2025-05-06 15:56:53,102 - INFO - Downloaded: Characteristic Circuits
+2025-05-06 15:56:53,104 - INFO - Processed: Characteristic Circuits
+2025-05-06 15:56:53,331 - INFO - Downloaded: A U-turn on Double Descent: Rethinking Parameter Counting in Statistical Learning
+2025-05-06 15:56:53,334 - INFO - Processed: A U-turn on Double Descent: Rethinking Parameter Counting in Statistical Learning
+2025-05-06 15:56:53,583 - INFO - Downloaded: Online RL in Linearly $q^\pi$-Realizable MDPs Is as Easy as in Linear MDPs If You Learn What to Ignore
+2025-05-06 15:56:53,585 - INFO - Processed: Online RL in Linearly $q^\pi$-Realizable MDPs Is as Easy as in Linear MDPs If You Learn What to Ignore
+2025-05-06 15:56:53,593 - INFO - Downloaded: Conformal Meta-learners for Predictive Inference of Individual Treatment Effects
+2025-05-06 15:56:53,595 - INFO - Processed: Conformal Meta-learners for Predictive Inference of Individual Treatment Effects
+2025-05-06 15:56:53,683 - INFO - Downloaded: DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models
+2025-05-06 15:56:53,685 - INFO - Processed: DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models
+2025-05-06 15:56:53,804 - INFO - Downloaded: Private Everlasting Prediction
+2025-05-06 15:56:53,807 - INFO - Processed: Private Everlasting Prediction
+2025-05-06 15:56:53,891 - INFO - Downloaded: Learning Transformer Programs
+2025-05-06 15:56:53,893 - INFO - Processed: Learning Transformer Programs
+2025-05-06 15:56:53,911 - INFO - Downloaded: Scaling Data-Constrained Language Models
+2025-05-06 15:56:53,913 - INFO - Processed: Scaling Data-Constrained Language Models
+2025-05-06 15:56:54,296 - INFO - Downloaded: Quilt-1M: One Million Image-Text Pairs for Histopathology
+2025-05-06 15:56:54,298 - INFO - Processed: Quilt-1M: One Million Image-Text Pairs for Histopathology
+2025-05-06 15:56:54,307 - INFO - Downloaded: DiffuseBot: Breeding Soft Robots With Physics-Augmented Generative Diffusion Models
+2025-05-06 15:56:54,310 - INFO - Processed: DiffuseBot: Breeding Soft Robots With Physics-Augmented Generative Diffusion Models
+2025-05-06 15:56:54,478 - INFO - Downloaded: Additive Decoders for Latent Variables Identification and Cartesian-Product Extrapolation
+2025-05-06 15:56:54,481 - INFO - Processed: Additive Decoders for Latent Variables Identification and Cartesian-Product Extrapolation
+2025-05-06 15:56:54,517 - INFO - Downloaded: Ethical Considerations for Responsible Data Curation
+2025-05-06 15:56:54,519 - INFO - Processed: Ethical Considerations for Responsible Data Curation
+2025-05-06 15:56:54,614 - INFO - Downloaded: Generalizing Nonlinear ICA Beyond Structural Sparsity
+2025-05-06 15:56:54,617 - INFO - Processed: Generalizing Nonlinear ICA Beyond Structural Sparsity
+2025-05-06 15:56:54,769 - INFO - Downloaded: Evaluating Post-hoc Explanations for Graph Neural Networks via Robustness Analysis
+2025-05-06 15:56:54,772 - INFO - Processed: Evaluating Post-hoc Explanations for Graph Neural Networks via Robustness Analysis
+2025-05-06 15:56:54,804 - INFO - Downloaded: Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection
+2025-05-06 15:56:54,806 - INFO - Processed: Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection
+2025-05-06 15:56:54,807 - INFO - Downloaded: DataComp: In search of the next generation of multimodal datasets
+2025-05-06 15:56:54,809 - INFO - Processed: DataComp: In search of the next generation of multimodal datasets
+2025-05-06 15:56:54,922 - INFO - Downloaded: Optimizing Solution-Samplers for Combinatorial Problems: The Landscape of Policy-Gradient Method
+2025-05-06 15:56:54,925 - INFO - Processed: Optimizing Solution-Samplers for Combinatorial Problems: The Landscape of Policy-Gradient Method
+2025-05-06 15:56:55,014 - INFO - Downloaded: Tester-Learners for Halfspaces: Universal Algorithms
+2025-05-06 15:56:55,018 - INFO - Processed: Tester-Learners for Halfspaces: Universal Algorithms
+2025-05-06 15:56:55,022 - INFO - Downloaded: Human-like Few-Shot Learning via Bayesian Reasoning over Natural Language
+2025-05-06 15:56:55,025 - INFO - Processed: Human-like Few-Shot Learning via Bayesian Reasoning over Natural Language
+2025-05-06 15:56:55,090 - INFO - Downloaded: Direct Preference Optimization: Your Language Model is Secretly a Reward Model
+2025-05-06 15:56:55,093 - INFO - Processed: Direct Preference Optimization: Your Language Model is Secretly a Reward Model
+2025-05-06 15:56:55,477 - INFO - Downloaded: The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks
+2025-05-06 15:56:55,480 - INFO - Processed: The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks
+2025-05-06 15:56:55,870 - INFO - Downloaded: The Surprising Effectiveness of Diffusion Models for Optical Flow and Monocular Depth Estimation
+2025-05-06 15:56:55,872 - INFO - Processed: The Surprising Effectiveness of Diffusion Models for Optical Flow and Monocular Depth Estimation
+2025-05-06 15:56:56,420 - INFO - Downloaded: Causal normalizing flows: from theory to practice
+2025-05-06 15:56:56,424 - INFO - Processed: Causal normalizing flows: from theory to practice
+2025-05-06 15:56:56,463 - INFO - Downloaded: User-Level Differential Privacy With Few Examples Per User
+2025-05-06 15:56:56,466 - INFO - Processed: User-Level Differential Privacy With Few Examples Per User
+2025-05-06 15:56:56,629 - INFO - Downloaded: Bridging Discrete and Backpropagation: Straight-Through and Beyond
+2025-05-06 15:56:56,633 - INFO - Processed: Bridging Discrete and Backpropagation: Straight-Through and Beyond
+2025-05-06 15:56:56,783 - INFO - Downloaded: BEDD: The MineRL BASALT Evaluation and Demonstrations Dataset for Training and Benchmarking Agents that Solve Fuzzy Tasks
+2025-05-06 15:56:56,788 - INFO - Processed: BEDD: The MineRL BASALT Evaluation and Demonstrations Dataset for Training and Benchmarking Agents that Solve Fuzzy Tasks
+2025-05-06 15:56:57,036 - INFO - Downloaded: Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective
+2025-05-06 15:56:57,039 - INFO - Processed: Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective
+2025-05-06 15:56:57,051 - INFO - Downloaded: Emergence of Shape Bias in Convolutional Neural Networks through Activation Sparsity
+2025-05-06 15:56:57,053 - INFO - Processed: Emergence of Shape Bias in Convolutional Neural Networks through Activation Sparsity
+2025-05-06 15:56:57,103 - INFO - Downloaded: Fine-Tuning Language Models with Just Forward Passes
+2025-05-06 15:56:57,106 - INFO - Processed: Fine-Tuning Language Models with Just Forward Passes
+2025-05-06 15:56:57,301 - INFO - Downloaded: Improved Algorithms for Stochastic Linear Bandits Using Tail Bounds for Martingale Mixtures
+2025-05-06 15:56:57,304 - INFO - Processed: Improved Algorithms for Stochastic Linear Bandits Using Tail Bounds for Martingale Mixtures
+2025-05-06 15:56:57,307 - INFO - Downloaded: Jailbroken: How Does LLM Safety Training Fail?
+2025-05-06 15:56:57,310 - INFO - Processed: Jailbroken: How Does LLM Safety Training Fail?
+2025-05-06 15:56:57,311 - INFO - Downloaded: MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning
+2025-05-06 15:56:57,314 - INFO - Processed: MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning
+2025-05-06 15:56:57,582 - INFO - Downloaded: Spatial-frequency channels, shape bias, and adversarial robustness
+2025-05-06 15:56:57,586 - INFO - Processed: Spatial-frequency channels, shape bias, and adversarial robustness
+2025-05-06 15:57:08,645 - INFO - Found 24 orals for https://neurips.cc/virtual/2024/calendar
+2025-05-06 15:57:11,723 - INFO - Processed: DevBench: A multimodal developmental benchmark for language learning
+2025-05-06 15:57:12,662 - INFO - Processed: MedCalc-Bench: Evaluating Large Language Models for Medical Calculations
+2025-05-06 15:57:12,998 - INFO - Downloaded: The Road Less Scheduled
+2025-05-06 15:57:13,001 - INFO - Processed: The Road Less Scheduled
+2025-05-06 15:57:13,177 - INFO - Downloaded: Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks
+2025-05-06 15:57:13,180 - INFO - Processed: Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks
+2025-05-06 15:57:13,203 - INFO - Downloaded: Human Expertise in Algorithmic Prediction
+2025-05-06 15:57:13,206 - INFO - Processed: Human Expertise in Algorithmic Prediction
+2025-05-06 15:57:13,384 - INFO - Downloaded: Generalization Error Bounds for Two-stage Recommender Systems with Tree Structure
+2025-05-06 15:57:13,390 - INFO - Processed: Generalization Error Bounds for Two-stage Recommender Systems with Tree Structure
+2025-05-06 15:57:13,439 - INFO - Downloaded: Enhancing Preference-based Linear Bandits via Human Response Time
+2025-05-06 15:57:13,443 - INFO - Processed: Enhancing Preference-based Linear Bandits via Human Response Time
+2025-05-06 15:57:13,498 - INFO - Downloaded: RL-GPT: Integrating Reinforcement Learning and Code-as-policy
+2025-05-06 15:57:13,501 - INFO - Processed: RL-GPT: Integrating Reinforcement Learning and Code-as-policy
+2025-05-06 15:57:13,663 - INFO - Downloaded: Span-Based Optimal Sample Complexity for Weakly Communicating and General Average Reward MDPs
+2025-05-06 15:57:13,667 - INFO - Processed: Span-Based Optimal Sample Complexity for Weakly Communicating and General Average Reward MDPs
+2025-05-06 15:57:13,708 - INFO - Downloaded: Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions
+2025-05-06 15:57:13,712 - INFO - Processed: Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions
+2025-05-06 15:57:13,911 - INFO - Downloaded: PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression
+2025-05-06 15:57:13,915 - INFO - Processed: PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression
+2025-05-06 15:57:14,015 - INFO - Downloaded: Improving Environment Novelty Quantification for Effective Unsupervised Environment Design
+2025-05-06 15:57:14,020 - INFO - Processed: Improving Environment Novelty Quantification for Effective Unsupervised Environment Design
+2025-05-06 15:57:14,023 - INFO - Downloaded: Not All Tokens Are What You Need for Pretraining
+2025-05-06 15:57:14,027 - INFO - Processed: Not All Tokens Are What You Need for Pretraining
+2025-05-06 15:57:14,123 - INFO - Downloaded: Divide-and-Conquer Meets Consensus: Unleashing the Power of Functions in Code Generation
+2025-05-06 15:57:14,128 - INFO - Processed: Divide-and-Conquer Meets Consensus: Unleashing the Power of Functions in Code Generation
+2025-05-06 15:57:14,251 - INFO - Processed: CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark
+2025-05-06 15:57:14,445 - INFO - Downloaded: GIC: Gaussian-Informed Continuum for Physical Property Identification and Simulation
+2025-05-06 15:57:14,450 - INFO - Processed: GIC: Gaussian-Informed Continuum for Physical Property Identification and Simulation
+2025-05-06 15:57:14,503 - INFO - Downloaded: DenoiseRep: Denoising Model for Representation Learning
+2025-05-06 15:57:14,507 - INFO - Processed: DenoiseRep: Denoising Model for Representation Learning
+2025-05-06 15:57:14,936 - INFO - Downloaded: Flipped Classroom: Aligning Teacher Attention with Student in Generalized Category Discovery
+2025-05-06 15:57:14,939 - INFO - Processed: Flipped Classroom: Aligning Teacher Attention with Student in Generalized Category Discovery
+2025-05-06 15:57:15,140 - INFO - Downloaded: CAT3D: Create Anything in 3D with Multi-View Diffusion Models
+2025-05-06 15:57:15,143 - INFO - Processed: CAT3D: Create Anything in 3D with Multi-View Diffusion Models
+2025-05-06 15:57:15,183 - INFO - Downloaded: Exploitation of a Latent Mechanism in Graph Contrastive Learning: Representation Scattering
+2025-05-06 15:57:15,186 - INFO - Processed: Exploitation of a Latent Mechanism in Graph Contrastive Learning: Representation Scattering
+2025-05-06 15:57:15,393 - INFO - Downloaded: Get Rid of Isolation: A Continuous Multi-task Spatio-Temporal Learning Framework
+2025-05-06 15:57:15,396 - INFO - Processed: Get Rid of Isolation: A Continuous Multi-task Spatio-Temporal Learning Framework
+2025-05-06 15:57:15,461 - INFO - Downloaded: Neural Pfaffians: Solving Many Many-Electron Schrödinger Equations
+2025-05-06 15:57:15,463 - INFO - Processed: Neural Pfaffians: Solving Many Many-Electron Schrödinger Equations
+2025-05-06 15:57:15,668 - INFO - Processed: Brain Treebank: Large-scale intracranial recordings from naturalistic language stimuli
+2025-05-06 15:57:15,724 - INFO - Downloaded: Aligner: Efficient Alignment by Learning to Correct
+2025-05-06 15:57:15,727 - INFO - Processed: Aligner: Efficient Alignment by Learning to Correct
+2025-05-06 15:57:15,899 - INFO - Downloaded: Learning rigid-body simulators over implicit shapes for large-scale scenes and vision
+2025-05-06 15:57:15,903 - INFO - Processed: Learning rigid-body simulators over implicit shapes for large-scale scenes and vision
+2025-05-06 15:57:15,929 - INFO - Downloaded: DapperFL: Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices
+2025-05-06 15:57:15,932 - INFO - Processed: DapperFL: Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices
+2025-05-06 15:57:16,371 - INFO - Processed: Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making
+2025-05-06 15:57:16,854 - INFO - Processed: LINGOLY: A Benchmark of Olympiad-Level Linguistic Reasoning Puzzles in Low Resource and Extinct Languages
+2025-05-06 15:57:17,522 - INFO - Processed: ChaosBench: A Multi-Channel, Physics-Based Benchmark for Subseasonal-to-Seasonal Climate Prediction
+2025-05-06 15:57:17,900 - INFO - Downloaded: Learning diffusion at lightspeed
+2025-05-06 15:57:17,905 - INFO - Processed: Learning diffusion at lightspeed
+2025-05-06 15:57:18,062 - INFO - Downloaded: Optimal Parallelization of Boosting
+2025-05-06 15:57:18,066 - INFO - Processed: Optimal Parallelization of Boosting
+2025-05-06 15:57:18,283 - INFO - Processed: AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents
+2025-05-06 15:57:18,318 - INFO - Downloaded: RG-SAN: Rule-Guided Spatial Awareness Network for End-to-End 3D Referring Expression Segmentation
+2025-05-06 15:57:18,321 - INFO - Processed: RG-SAN: Rule-Guided Spatial Awareness Network for End-to-End 3D Referring Expression Segmentation
+2025-05-06 15:57:18,404 - INFO - Downloaded: Trading Place for Space: Increasing Location Resolution Reduces Contextual Capacity in Hippocampal Codes
+2025-05-06 15:57:18,407 - INFO - Processed: Trading Place for Space: Increasing Location Resolution Reduces Contextual Capacity in Hippocampal Codes
+2025-05-06 15:57:18,443 - INFO - Downloaded: Statistical Efficiency of Distributional Temporal Difference Learning
+2025-05-06 15:57:18,446 - INFO - Processed: Statistical Efficiency of Distributional Temporal Difference Learning
+2025-05-06 15:57:18,632 - INFO - Downloaded: The Sample-Communication Complexity Trade-off in Federated Q-Learning
+2025-05-06 15:57:18,635 - INFO - Processed: The Sample-Communication Complexity Trade-off in Federated Q-Learning
+2025-05-06 15:57:18,787 - INFO - Downloaded: LLM Evaluators Recognize and Favor Their Own Generations
+2025-05-06 15:57:18,790 - INFO - Processed: LLM Evaluators Recognize and Favor Their Own Generations
+2025-05-06 15:57:18,884 - INFO - Downloaded: Decompose, Analyze and Rethink: Solving Intricate Problems with Human-like Reasoning Cycle
+2025-05-06 15:57:18,887 - INFO - Processed: Decompose, Analyze and Rethink: Solving Intricate Problems with Human-like Reasoning Cycle
+2025-05-06 15:57:18,916 - INFO - Downloaded: VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time
+2025-05-06 15:57:18,919 - INFO - Processed: VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time
+2025-05-06 15:57:19,183 - INFO - Downloaded: Return of Unconditional Generation: A Self-supervised Representation Generation Method
+2025-05-06 15:57:19,187 - INFO - Processed: Return of Unconditional Generation: A Self-supervised Representation Generation Method
+2025-05-06 15:57:19,803 - INFO - Downloaded: Improved Distribution Matching Distillation for Fast Image Synthesis
+2025-05-06 15:57:19,806 - INFO - Processed: Improved Distribution Matching Distillation for Fast Image Synthesis
+2025-05-06 15:57:19,888 - INFO - Downloaded: DuQuant: Distributing Outliers via Dual Transformation Makes Stronger Quantized LLMs
+2025-05-06 15:57:19,892 - INFO - Processed: DuQuant: Distributing Outliers via Dual Transformation Makes Stronger Quantized LLMs
+2025-05-06 15:57:19,992 - INFO - Downloaded: Convolutional Differentiable Logic Gate Networks
+2025-05-06 15:57:19,996 - INFO - Processed: Convolutional Differentiable Logic Gate Networks
+2025-05-06 15:57:20,177 - INFO - Downloaded: Stochastic Taylor Derivative Estimator: Efficient amortization for arbitrary differential operators
+2025-05-06 15:57:20,183 - INFO - Processed: Stochastic Taylor Derivative Estimator: Efficient amortization for arbitrary differential operators
+2025-05-06 15:57:20,323 - INFO - Downloaded: MeshFormer : High-Quality Mesh Generation with 3D-Guided Reconstruction Model
+2025-05-06 15:57:20,330 - INFO - Processed: MeshFormer : High-Quality Mesh Generation with 3D-Guided Reconstruction Model
+2025-05-06 15:57:20,332 - INFO - Downloaded: Do Finetti: On Causal Effects for Exchangeable Data
+2025-05-06 15:57:20,336 - INFO - Processed: Do Finetti: On Causal Effects for Exchangeable Data
+2025-05-06 15:57:20,717 - INFO - Downloaded: MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making
+2025-05-06 15:57:20,721 - INFO - Processed: MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making
+2025-05-06 15:57:20,998 - INFO - Downloaded: Stylus: Automatic Adapter Selection for Diffusion Models
+2025-05-06 15:57:21,002 - INFO - Processed: Stylus: Automatic Adapter Selection for Diffusion Models
+2025-05-06 15:57:21,195 - INFO - Downloaded: You Only Cache Once: Decoder-Decoder Architectures for Language Models
+2025-05-06 15:57:21,199 - INFO - Processed: You Only Cache Once: Decoder-Decoder Architectures for Language Models
+2025-05-06 15:57:21,216 - INFO - Downloaded: Weisfeiler and Leman Go Loopy: A New Hierarchy for Graph Representational Learning
+2025-05-06 15:57:21,219 - INFO - Processed: Weisfeiler and Leman Go Loopy: A New Hierarchy for Graph Representational Learning
+2025-05-06 15:57:21,429 - INFO - Downloaded: Bayesian-guided Label Mapping for Visual Reprogramming
+2025-05-06 15:57:21,434 - INFO - Processed: Bayesian-guided Label Mapping for Visual Reprogramming
+2025-05-06 15:57:21,644 - INFO - Processed: The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models
+2025-05-06 15:57:22,202 - INFO - Processed: OpenMathInstruct-1: A 1.8 Million Math Instruction Tuning Dataset
+2025-05-06 15:57:23,273 - INFO - Processed: A Taxonomy of Challenges to Curating Fair Datasets
+2025-05-06 15:57:23,275 - INFO - Downloaded: Reinforcement Learning Under Latent Dynamics: Toward Statistical and Algorithmic Modularity
+2025-05-06 15:57:23,280 - INFO - Processed: Reinforcement Learning Under Latent Dynamics: Toward Statistical and Algorithmic Modularity
+2025-05-06 15:57:23,417 - INFO - Downloaded: Achieving Optimal Clustering in Gaussian Mixture Models with Anisotropic Covariance Structures
+2025-05-06 15:57:23,425 - INFO - Processed: Achieving Optimal Clustering in Gaussian Mixture Models with Anisotropic Covariance Structures
+2025-05-06 15:57:23,813 - INFO - Downloaded: SeeA*: Efficient Exploration-Enhanced A* Search by Selective Sampling
+2025-05-06 15:57:23,820 - INFO - Processed: SeeA*: Efficient Exploration-Enhanced A* Search by Selective Sampling
+2025-05-06 15:57:23,826 - INFO - Downloaded: Questioning the Survey Responses of Large Language Models
+2025-05-06 15:57:23,832 - INFO - Processed: Questioning the Survey Responses of Large Language Models
+2025-05-06 15:57:24,103 - INFO - Downloaded: Unlocking the Capabilities of Thought: A Reasoning Boundary Framework to Quantify and Optimize Chain-of-Thought
+2025-05-06 15:57:24,109 - INFO - Processed: Unlocking the Capabilities of Thought: A Reasoning Boundary Framework to Quantify and Optimize Chain-of-Thought
+2025-05-06 15:57:24,388 - INFO - Downloaded: Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction
+2025-05-06 15:57:24,393 - INFO - Processed: Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction
+2025-05-06 15:57:24,511 - INFO - Downloaded: Policy Learning from Tutorial Books via Understanding, Rehearsing and Introspecting
+2025-05-06 15:57:24,516 - INFO - Processed: Policy Learning from Tutorial Books via Understanding, Rehearsing and Introspecting
+2025-05-06 15:57:24,633 - INFO - Downloaded: NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction
+2025-05-06 15:57:24,638 - INFO - Processed: NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction
+2025-05-06 15:57:24,649 - INFO - Downloaded: HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning
+2025-05-06 15:57:24,652 - INFO - Processed: HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning
+2025-05-06 15:57:24,686 - ERROR - HTTP 429 for PDF https://openreview.net/pdf?id=V0oJaLqY4E
+2025-05-06 15:57:24,690 - INFO - Processed: Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models
+2025-05-06 15:57:24,693 - ERROR - HTTP 429 for PDF https://openreview.net/pdf?id=Vi8AepAXGy
+2025-05-06 15:57:24,697 - INFO - Processed: Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs
+2025-05-06 15:57:24,719 - ERROR - HTTP 429 for PDF https://openreview.net/pdf?id=47loYmzxep
+2025-05-06 15:57:24,724 - INFO - Processed: E2E-MFD: Towards End-to-End Synchronous Multimodal Fusion Detection
+2025-05-06 15:57:24,746 - INFO - Downloaded: Learning Formal Mathematics From Intrinsic Motivation
+2025-05-06 15:57:24,751 - INFO - Processed: Learning Formal Mathematics From Intrinsic Motivation
+2025-05-06 15:57:24,751 - ERROR - HTTP 429 for PDF https://openreview.net/pdf?id=S2P6KPLtm8
+2025-05-06 15:57:24,756 - INFO - Processed: Identification and Estimation of the Bi-Directional MR with Some Invalid Instruments
+2025-05-06 15:57:24,756 - ERROR - HTTP 429 for PDF https://openreview.net/pdf?id=cfrDLD1wfO
+2025-05-06 15:57:24,760 - INFO - Processed: Graph Diffusion Transformers for Multi-Conditional Molecular Generation
+2025-05-06 15:57:24,778 - ERROR - HTTP 429 for PDF https://openreview.net/pdf?id=bg6fVPVs3s
+2025-05-06 15:57:24,782 - INFO - Processed: Guiding a Diffusion Model with a Bad Version of Itself
+2025-05-06 15:57:24,784 - ERROR - HTTP 429 for PDF https://openreview.net/pdf?id=Y8YVCOMEpz
+2025-05-06 15:57:24,788 - INFO - Processed: MetaLA: Unified Optimal Linear Approximation to Softmax Attention Map
+2025-05-06 15:57:24,788 - ERROR - HTTP 429 for PDF https://openreview.net/pdf?id=8Fxqn1tZM1
+2025-05-06 15:57:24,792 - INFO - Processed: Scale Equivariant Graph Metanetworks
+2025-05-06 18:00:48,069 - INFO - Found 24 orals for https://neurips.cc/virtual/2024/calendar
+2025-05-06 18:00:50,209 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Learning to grok_ Emergence of in-context learning and skill composition in modular arithmetic tasks.pdf
+2025-05-06 18:00:50,217 - INFO - Processed: Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks
+2025-05-06 18:00:50,231 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Human Expertise in Algorithmic Prediction.pdf
+2025-05-06 18:00:50,236 - INFO - Processed: Human Expertise in Algorithmic Prediction
+2025-05-06 18:00:50,283 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Generalization Error Bounds for Two-stage Recommender Systems with Tree Structure.pdf
+2025-05-06 18:00:50,288 - INFO - Processed: Generalization Error Bounds for Two-stage Recommender Systems with Tree Structure
+2025-05-06 18:00:50,419 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/The Road Less Scheduled.pdf
+2025-05-06 18:00:50,422 - INFO - Processed: The Road Less Scheduled
+2025-05-06 18:00:50,444 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Enhancing Preference-based Linear Bandits via Human Response Time.pdf
+2025-05-06 18:00:50,447 - INFO - Processed: Enhancing Preference-based Linear Bandits via Human Response Time
+2025-05-06 18:00:50,530 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Improving Environment Novelty Quantification for Effective Unsupervised Environment Design.pdf
+2025-05-06 18:00:50,534 - INFO - Processed: Improving Environment Novelty Quantification for Effective Unsupervised Environment Design
+2025-05-06 18:00:50,660 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/RL-GPT_ Integrating Reinforcement Learning and Code-as-policy.pdf
+2025-05-06 18:00:50,669 - INFO - Processed: RL-GPT: Integrating Reinforcement Learning and Code-as-policy
+2025-05-06 18:00:50,680 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Span-Based Optimal Sample Complexity for Weakly Communicating and General Average Reward MDPs.pdf
+2025-05-06 18:00:50,685 - INFO - Processed: Span-Based Optimal Sample Complexity for Weakly Communicating and General Average Reward MDPs
+2025-05-06 18:00:50,767 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Cracking the Code of Juxtaposition_ Can AI Models Understand the Humorous Contradictions.pdf
+2025-05-06 18:00:50,773 - INFO - Processed: Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions
+2025-05-06 18:00:50,896 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/PV-Tuning_ Beyond Straight-Through Estimation for Extreme LLM Compression.pdf
+2025-05-06 18:00:50,902 - INFO - Processed: PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression
+2025-05-06 18:00:50,961 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Not All Tokens Are What You Need for Pretraining.pdf
+2025-05-06 18:00:50,967 - INFO - Processed: Not All Tokens Are What You Need for Pretraining
+2025-05-06 18:00:51,044 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Divide-and-Conquer Meets Consensus_ Unleashing the Power of Functions in Code Generation.pdf
+2025-05-06 18:00:51,050 - INFO - Processed: Divide-and-Conquer Meets Consensus: Unleashing the Power of Functions in Code Generation
+2025-05-06 18:00:51,111 - INFO - Processed: DevBench: A multimodal developmental benchmark for language learning
+2025-05-06 18:00:51,162 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/CAT3D_ Create Anything in 3D with Multi-View Diffusion Models.pdf
+2025-05-06 18:00:51,168 - INFO - Processed: CAT3D: Create Anything in 3D with Multi-View Diffusion Models
+2025-05-06 18:00:51,335 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/DenoiseRep_ Denoising Model for Representation Learning.pdf
+2025-05-06 18:00:51,341 - INFO - Processed: DenoiseRep: Denoising Model for Representation Learning
+2025-05-06 18:00:51,402 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Exploitation of a Latent Mechanism in Graph Contrastive Learning_ Representation Scattering.pdf
+2025-05-06 18:00:51,408 - INFO - Processed: Exploitation of a Latent Mechanism in Graph Contrastive Learning: Representation Scattering
+2025-05-06 18:00:51,444 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/GIC_ Gaussian-Informed Continuum for Physical Property Identification and Simulation.pdf
+2025-05-06 18:00:51,449 - INFO - Processed: GIC: Gaussian-Informed Continuum for Physical Property Identification and Simulation
+2025-05-06 18:00:51,560 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Learning rigid-body simulators over implicit shapes for large-scale scenes and vision.pdf
+2025-05-06 18:00:51,566 - INFO - Processed: Learning rigid-body simulators over implicit shapes for large-scale scenes and vision
+2025-05-06 18:00:51,711 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Flipped Classroom_ Aligning Teacher Attention with Student in Generalized Category Discovery.pdf
+2025-05-06 18:00:51,717 - INFO - Processed: Flipped Classroom: Aligning Teacher Attention with Student in Generalized Category Discovery
+2025-05-06 18:00:51,738 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Get Rid of Isolation_ A Continuous Multi-task Spatio-Temporal Learning Framework.pdf
+2025-05-06 18:00:51,744 - INFO - Processed: Get Rid of Isolation: A Continuous Multi-task Spatio-Temporal Learning Framework
+2025-05-06 18:00:51,778 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Neural Pfaffians_ Solving Many Many-Electron Schrödinger Equations.pdf
+2025-05-06 18:00:51,783 - INFO - Processed: Neural Pfaffians: Solving Many Many-Electron Schrödinger Equations
+2025-05-06 18:00:51,941 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Aligner_ Efficient Alignment by Learning to Correct.pdf
+2025-05-06 18:00:51,947 - INFO - Processed: Aligner: Efficient Alignment by Learning to Correct
+2025-05-06 18:00:51,962 - INFO - Processed: MedCalc-Bench: Evaluating Large Language Models for Medical Calculations
+2025-05-06 18:00:52,005 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/DapperFL_ Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices.pdf
+2025-05-06 18:00:52,010 - INFO - Processed: DapperFL: Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices
+2025-05-06 18:00:52,234 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Optimal Parallelization of Boosting.pdf
+2025-05-06 18:00:52,240 - INFO - Processed: Optimal Parallelization of Boosting
+2025-05-06 18:00:52,267 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Trading Place for Space_ Increasing Location Resolution Reduces Contextual Capacity in Hippocampal Codes.pdf
+2025-05-06 18:00:52,272 - INFO - Processed: Trading Place for Space: Increasing Location Resolution Reduces Contextual Capacity in Hippocampal Codes
+2025-05-06 18:00:52,282 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/RG-SAN_ Rule-Guided Spatial Awareness Network for End-to-End 3D Referring Expression Segmentation.pdf
+2025-05-06 18:00:52,286 - INFO - Processed: RG-SAN: Rule-Guided Spatial Awareness Network for End-to-End 3D Referring Expression Segmentation
+2025-05-06 18:00:52,467 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Learning diffusion at lightspeed.pdf
+2025-05-06 18:00:52,474 - INFO - Processed: Learning diffusion at lightspeed
+2025-05-06 18:00:52,491 - INFO - Processed: Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making
+2025-05-06 18:00:52,533 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/The Sample-Communication Complexity Trade-off in Federated Q-Learning.pdf
+2025-05-06 18:00:52,538 - INFO - Processed: The Sample-Communication Complexity Trade-off in Federated Q-Learning
+2025-05-06 18:00:52,706 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Statistical Efficiency of Distributional Temporal Difference Learning.pdf
+2025-05-06 18:00:52,712 - INFO - Processed: Statistical Efficiency of Distributional Temporal Difference Learning
+2025-05-06 18:00:52,741 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/VASA-1_ Lifelike Audio-Driven Talking Faces Generated in Real Time.pdf
+2025-05-06 18:00:52,746 - INFO - Processed: VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time
+2025-05-06 18:00:52,755 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Decompose, Analyze and Rethink_ Solving Intricate Problems with Human-like Reasoning Cycle.pdf
+2025-05-06 18:00:52,759 - INFO - Processed: Decompose, Analyze and Rethink: Solving Intricate Problems with Human-like Reasoning Cycle
+2025-05-06 18:00:52,953 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/LLM Evaluators Recognize and Favor Their Own Generations.pdf
+2025-05-06 18:00:52,959 - INFO - Processed: LLM Evaluators Recognize and Favor Their Own Generations
+2025-05-06 18:00:52,970 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Return of Unconditional Generation_ A Self-supervised Representation Generation Method.pdf
+2025-05-06 18:00:52,975 - INFO - Processed: Return of Unconditional Generation: A Self-supervised Representation Generation Method
+2025-05-06 18:00:52,990 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/DuQuant_ Distributing Outliers via Dual Transformation Makes Stronger Quantized LLMs.pdf
+2025-05-06 18:00:52,995 - INFO - Processed: DuQuant: Distributing Outliers via Dual Transformation Makes Stronger Quantized LLMs
+2025-05-06 18:00:53,192 - INFO - Processed: CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark
+2025-05-06 18:00:53,205 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Stylus_ Automatic Adapter Selection for Diffusion Models.pdf
+2025-05-06 18:00:53,210 - INFO - Processed: Stylus: Automatic Adapter Selection for Diffusion Models
+2025-05-06 18:00:53,219 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Improved Distribution Matching Distillation for Fast Image Synthesis.pdf
+2025-05-06 18:00:53,224 - INFO - Processed: Improved Distribution Matching Distillation for Fast Image Synthesis
+2025-05-06 18:00:53,560 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Do Finetti_ On Causal Effects for Exchangeable Data.pdf
+2025-05-06 18:00:53,567 - INFO - Processed: Do Finetti: On Causal Effects for Exchangeable Data
+2025-05-06 18:00:53,578 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/MeshFormer _ High-Quality Mesh Generation with 3D-Guided Reconstruction Model.pdf
+2025-05-06 18:00:53,583 - INFO - Processed: MeshFormer : High-Quality Mesh Generation with 3D-Guided Reconstruction Model
+2025-05-06 18:00:53,592 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Weisfeiler and Leman Go Loopy_ A New Hierarchy for Graph Representational Learning.pdf
+2025-05-06 18:00:53,596 - INFO - Processed: Weisfeiler and Leman Go Loopy: A New Hierarchy for Graph Representational Learning
+2025-05-06 18:00:53,792 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/MDAgents_ An Adaptive Collaboration of LLMs for Medical Decision-Making.pdf
+2025-05-06 18:00:53,798 - INFO - Processed: MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making
+2025-05-06 18:00:53,814 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Stochastic Taylor Derivative Estimator_ Efficient amortization for arbitrary differential operators.pdf
+2025-05-06 18:00:53,819 - INFO - Processed: Stochastic Taylor Derivative Estimator: Efficient amortization for arbitrary differential operators
+2025-05-06 18:00:53,840 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Convolutional Differentiable Logic Gate Networks.pdf
+2025-05-06 18:00:53,845 - INFO - Processed: Convolutional Differentiable Logic Gate Networks
+2025-05-06 18:00:54,031 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Bayesian-guided Label Mapping for Visual Reprogramming.pdf
+2025-05-06 18:00:54,037 - INFO - Processed: Bayesian-guided Label Mapping for Visual Reprogramming
+2025-05-06 18:00:54,051 - INFO - Processed: Brain Treebank: Large-scale intracranial recordings from naturalistic language stimuli
+2025-05-06 18:00:54,083 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/You Only Cache Once_ Decoder-Decoder Architectures for Language Models.pdf
+2025-05-06 18:00:54,088 - INFO - Processed: You Only Cache Once: Decoder-Decoder Architectures for Language Models
+2025-05-06 18:00:54,293 - INFO - Processed: The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models
+2025-05-06 18:00:54,378 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Achieving Optimal Clustering in Gaussian Mixture Models with Anisotropic Covariance Structures.pdf
+2025-05-06 18:00:54,384 - INFO - Processed: Achieving Optimal Clustering in Gaussian Mixture Models with Anisotropic Covariance Structures
+2025-05-06 18:00:54,394 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/NeuroClips_ Towards High-fidelity and Smooth fMRI-to-Video Reconstruction.pdf
+2025-05-06 18:00:54,399 - INFO - Processed: NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction
+2025-05-06 18:00:54,544 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Reinforcement Learning Under Latent Dynamics_ Toward Statistical and Algorithmic Modularity.pdf
+2025-05-06 18:00:54,550 - INFO - Processed: Reinforcement Learning Under Latent Dynamics: Toward Statistical and Algorithmic Modularity
+2025-05-06 18:00:54,621 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Policy Learning from Tutorial Books via Understanding, Rehearsing and Introspecting.pdf
+2025-05-06 18:00:54,626 - INFO - Processed: Policy Learning from Tutorial Books via Understanding, Rehearsing and Introspecting
+2025-05-06 18:00:54,650 - INFO - Processed: AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents
+2025-05-06 18:00:54,761 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/SeeA__ Efficient Exploration-Enhanced A_ Search by Selective Sampling.pdf
+2025-05-06 18:00:54,767 - INFO - Processed: SeeA*: Efficient Exploration-Enhanced A* Search by Selective Sampling
+2025-05-06 18:00:54,853 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Visual Autoregressive Modeling_ Scalable Image Generation via Next-Scale Prediction.pdf
+2025-05-06 18:00:54,858 - INFO - Processed: Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction
+2025-05-06 18:00:54,869 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Questioning the Survey Responses of Large Language Models.pdf
+2025-05-06 18:00:54,873 - INFO - Processed: Questioning the Survey Responses of Large Language Models
+2025-05-06 18:00:55,010 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Unlocking the Capabilities of Thought_ A Reasoning Boundary Framework to Quantify and Optimize Chain-of-Thought.pdf
+2025-05-06 18:00:55,015 - INFO - Processed: Unlocking the Capabilities of Thought: A Reasoning Boundary Framework to Quantify and Optimize Chain-of-Thought
+2025-05-06 18:00:55,075 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/HydraLoRA_ An Asymmetric LoRA Architecture for Efficient Fine-Tuning.pdf
+2025-05-06 18:00:55,080 - INFO - Processed: HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning
+2025-05-06 18:00:55,296 - INFO - Processed: LINGOLY: A Benchmark of Olympiad-Level Linguistic Reasoning Puzzles in Low Resource and Extinct Languages
+2025-05-06 18:00:55,321 - INFO - Processed: OpenMathInstruct-1: A 1.8 Million Math Instruction Tuning Dataset
+2025-05-06 18:00:55,742 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Learning Formal Mathematics From Intrinsic Motivation.pdf
+2025-05-06 18:00:55,748 - INFO - Processed: Learning Formal Mathematics From Intrinsic Motivation
+2025-05-06 18:00:55,956 - INFO - Processed: A Taxonomy of Challenges to Curating Fair Datasets
+2025-05-06 18:00:55,972 - INFO - Processed: ChaosBench: A Multi-Channel, Physics-Based Benchmark for Subseasonal-to-Seasonal Climate Prediction
+2025-05-06 18:00:56,289 - INFO - Downloaded: Identification and Estimation of the Bi-Directional MR with Some Invalid Instruments
+2025-05-06 18:00:56,299 - INFO - Processed: Identification and Estimation of the Bi-Directional MR with Some Invalid Instruments
+2025-05-06 18:00:56,372 - INFO - Downloaded: Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models
+2025-05-06 18:00:56,379 - INFO - Processed: Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models
+2025-05-06 18:00:56,608 - INFO - Downloaded: Scale Equivariant Graph Metanetworks
+2025-05-06 18:00:56,615 - INFO - Processed: Scale Equivariant Graph Metanetworks
+2025-05-06 18:00:56,759 - INFO - Downloaded: E2E-MFD: Towards End-to-End Synchronous Multimodal Fusion Detection
+2025-05-06 18:00:56,764 - INFO - Processed: E2E-MFD: Towards End-to-End Synchronous Multimodal Fusion Detection
+2025-05-06 18:00:56,954 - INFO - Downloaded: Guiding a Diffusion Model with a Bad Version of Itself
+2025-05-06 18:00:56,960 - INFO - Processed: Guiding a Diffusion Model with a Bad Version of Itself
+2025-05-06 18:00:57,007 - INFO - Downloaded: Graph Diffusion Transformers for Multi-Conditional Molecular Generation
+2025-05-06 18:00:57,012 - INFO - Processed: Graph Diffusion Transformers for Multi-Conditional Molecular Generation
+2025-05-06 18:00:57,063 - INFO - Downloaded: Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs
+2025-05-06 18:00:57,068 - INFO - Processed: Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs
+2025-05-06 18:00:57,172 - INFO - Downloaded: MetaLA: Unified Optimal Linear Approximation to Softmax Attention Map
+2025-05-06 18:00:57,178 - INFO - Processed: MetaLA: Unified Optimal Linear Approximation to Softmax Attention Map
+2025-05-06 18:03:12,509 - INFO - Found 22 orals for https://neurips.cc/virtual/2023/calendar
+2025-05-06 18:03:14,548 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Ordering-based Conditions for Global Convergence of Policy Gradient Methods.pdf
+2025-05-06 18:03:14,555 - INFO - Processed: Ordering-based Conditions for Global Convergence of Policy Gradient Methods
+2025-05-06 18:03:14,595 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Sharpness Minimization Algorithms Do Not Only Minimize Sharpness To Achieve Better Generalization.pdf
+2025-05-06 18:03:14,600 - INFO - Processed: Sharpness Minimization Algorithms Do Not Only Minimize Sharpness To Achieve Better Generalization
+2025-05-06 18:03:14,655 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/How to Turn Your Knowledge Graph Embeddings into Generative Models.pdf
+2025-05-06 18:03:14,660 - INFO - Processed: How to Turn Your Knowledge Graph Embeddings into Generative Models
+2025-05-06 18:03:14,735 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/LeanDojo_ Theorem Proving with Retrieval-Augmented Language Models.pdf
+2025-05-06 18:03:14,741 - INFO - Processed: LeanDojo: Theorem Proving with Retrieval-Augmented Language Models
+2025-05-06 18:03:14,798 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Monarch Mixer_ A Simple Sub-Quadratic GEMM-Based Architecture.pdf
+2025-05-06 18:03:14,804 - INFO - Processed: Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture
+2025-05-06 18:03:14,837 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Rotating Features for Object Discovery.pdf
+2025-05-06 18:03:14,842 - INFO - Processed: Rotating Features for Object Discovery
+2025-05-06 18:03:14,924 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Learning Linear Causal Representations from Interventions under General Nonlinear Mixing.pdf
+2025-05-06 18:03:14,929 - INFO - Processed: Learning Linear Causal Representations from Interventions under General Nonlinear Mixing
+2025-05-06 18:03:15,001 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Nearly Tight Bounds For Differentially Private Multiway Cut.pdf
+2025-05-06 18:03:15,007 - INFO - Processed: Nearly Tight Bounds For Differentially Private Multiway Cut
+2025-05-06 18:03:15,040 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Brain Diffusion for Visual Exploration_ Cortical Discovery using Large Scale Generative Models.pdf
+2025-05-06 18:03:15,047 - INFO - Processed: Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models
+2025-05-06 18:03:15,114 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/ToolkenGPT_ Augmenting Frozen Language Models with Massive Tools via Tool Embeddings.pdf
+2025-05-06 18:03:15,119 - INFO - Processed: ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings
+2025-05-06 18:03:15,191 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Understanding Diffusion Objectives as the ELBO with Simple Data Augmentation.pdf
+2025-05-06 18:03:15,196 - INFO - Processed: Understanding Diffusion Objectives as the ELBO with Simple Data Augmentation
+2025-05-06 18:03:15,224 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/A Single-Loop Accelerated Extra-Gradient Difference Algorithm with Improved Complexity Bounds for Constrained Minimax Optimization.pdf
+2025-05-06 18:03:15,229 - INFO - Processed: A Single-Loop Accelerated Extra-Gradient Difference Algorithm with Improved Complexity Bounds for Constrained Minimax Optimization
+2025-05-06 18:03:15,314 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Mesogeos_ A multi-purpose dataset for data-driven wildfire modeling in the Mediterranean.pdf
+2025-05-06 18:03:15,319 - INFO - Processed: Mesogeos: A multi-purpose dataset for data-driven wildfire modeling in the Mediterranean
+2025-05-06 18:03:15,393 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Why think step by step_ Reasoning emerges from the locality of experience.pdf
+2025-05-06 18:03:15,398 - INFO - Processed: Why think step by step? Reasoning emerges from the locality of experience
+2025-05-06 18:03:15,414 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Going beyond persistent homology using persistent homology.pdf
+2025-05-06 18:03:15,418 - INFO - Processed: Going beyond persistent homology using persistent homology
+2025-05-06 18:03:15,519 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Students Parrot Their Teachers_ Membership Inference on Model Distillation.pdf
+2025-05-06 18:03:15,524 - INFO - Processed: Students Parrot Their Teachers: Membership Inference on Model Distillation
+2025-05-06 18:03:15,605 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Visual Instruction Tuning.pdf
+2025-05-06 18:03:15,610 - INFO - Processed: Visual Instruction Tuning
+2025-05-06 18:03:15,619 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Sampling from Gaussian Process Posteriors using Stochastic Gradient Descent.pdf
+2025-05-06 18:03:15,623 - INFO - Processed: Sampling from Gaussian Process Posteriors using Stochastic Gradient Descent
+2025-05-06 18:03:15,702 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Are Emergent Abilities of Large Language Models a Mirage_.pdf
+2025-05-06 18:03:15,707 - INFO - Processed: Are Emergent Abilities of Large Language Models a Mirage?
+2025-05-06 18:03:15,788 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/When Do Transformers Shine in RL_ Decoupling Memory from Credit Assignment.pdf
+2025-05-06 18:03:15,794 - INFO - Processed: When Do Transformers Shine in RL? Decoupling Memory from Credit Assignment
+2025-05-06 18:03:15,811 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Siamese Masked Autoencoders.pdf
+2025-05-06 18:03:15,820 - INFO - Processed: Siamese Masked Autoencoders
+2025-05-06 18:03:15,923 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Optimal Learners for Realizable Regression_ PAC Learning and Online Learning.pdf
+2025-05-06 18:03:15,928 - INFO - Processed: Optimal Learners for Realizable Regression: PAC Learning and Online Learning
+2025-05-06 18:03:16,016 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/When Demonstrations meet Generative World Models_ A Maximum Likelihood Framework for Offline Inverse Reinforcement Learning.pdf
+2025-05-06 18:03:16,023 - INFO - Processed: When Demonstrations meet Generative World Models: A Maximum Likelihood Framework for Offline Inverse Reinforcement Learning
+2025-05-06 18:03:16,048 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Abide by the law and follow the flow_ conservation laws for gradient flows.pdf
+2025-05-06 18:03:16,053 - INFO - Processed: Abide by the law and follow the flow: conservation laws for gradient flows
+2025-05-06 18:03:16,111 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Exact Bayesian Inference on Discrete Models via Probability Generating Functions_ A Probabilistic Programming Approach.pdf
+2025-05-06 18:03:16,116 - INFO - Processed: Exact Bayesian Inference on Discrete Models via Probability Generating Functions: A Probabilistic Programming Approach
+2025-05-06 18:03:16,203 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/OpenAssistant Conversations - Democratizing Large Language Model Alignment.pdf
+2025-05-06 18:03:16,209 - INFO - Processed: OpenAssistant Conversations - Democratizing Large Language Model Alignment
+2025-05-06 18:03:16,238 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/QLoRA_ Efficient Finetuning of Quantized LLMs.pdf
+2025-05-06 18:03:16,243 - INFO - Processed: QLoRA: Efficient Finetuning of Quantized LLMs
+2025-05-06 18:03:16,294 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Linguistic Binding in Diffusion Models_ Enhancing Attribute Correspondence through Attention Map Alignment.pdf
+2025-05-06 18:03:16,299 - INFO - Processed: Linguistic Binding in Diffusion Models: Enhancing Attribute Correspondence through Attention Map Alignment
+2025-05-06 18:03:16,396 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/A Measure-Theoretic Axiomatisation of Causality.pdf
+2025-05-06 18:03:16,401 - INFO - Processed: A Measure-Theoretic Axiomatisation of Causality
+2025-05-06 18:03:16,426 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Privacy Auditing with One (1) Training Run.pdf
+2025-05-06 18:03:16,431 - INFO - Processed: Privacy Auditing with One (1) Training Run
+2025-05-06 18:03:16,483 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Cinematic Mindscapes_ High-quality Video Reconstruction from Brain Activity.pdf
+2025-05-06 18:03:16,488 - INFO - Processed: Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity
+2025-05-06 18:03:16,573 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Toolformer_ Language Models Can Teach Themselves to Use Tools.pdf
+2025-05-06 18:03:16,579 - INFO - Processed: Toolformer: Language Models Can Teach Themselves to Use Tools
+2025-05-06 18:03:16,644 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Entropic Neural Optimal Transport via Diffusion Processes.pdf
+2025-05-06 18:03:16,649 - INFO - Processed: Entropic Neural Optimal Transport via Diffusion Processes
+2025-05-06 18:03:16,679 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Smoothing the Landscape Boosts the Signal for SGD_ Optimal Sample Complexity for Learning Single Index Models.pdf
+2025-05-06 18:03:16,684 - INFO - Processed: Smoothing the Landscape Boosts the Signal for SGD: Optimal Sample Complexity for Learning Single Index Models
+2025-05-06 18:03:16,766 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/ClimSim_ A large multi-scale dataset for hybrid physics-ML climate emulation.pdf
+2025-05-06 18:03:16,771 - INFO - Processed: ClimSim: A large multi-scale dataset for hybrid physics-ML climate emulation
+2025-05-06 18:03:16,828 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Tree of Thoughts_ Deliberate Problem Solving with Large Language Models.pdf
+2025-05-06 18:03:16,834 - INFO - Processed: Tree of Thoughts: Deliberate Problem Solving with Large Language Models
+2025-05-06 18:03:16,876 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Clifford Group Equivariant Neural Networks.pdf
+2025-05-06 18:03:16,881 - INFO - Processed: Clifford Group Equivariant Neural Networks
+2025-05-06 18:03:16,963 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Rethinking Bias Mitigation_ Fairer Architectures Make for Fairer Face Recognition.pdf
+2025-05-06 18:03:16,969 - INFO - Processed: Rethinking Bias Mitigation: Fairer Architectures Make for Fairer Face Recognition
+2025-05-06 18:03:17,032 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/EgoEnv_ Human-centric environment representations from egocentric video.pdf
+2025-05-06 18:03:17,036 - INFO - Processed: EgoEnv: Human-centric environment representations from egocentric video
+2025-05-06 18:03:17,057 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/A Rigorous Link between Deep Ensembles and (Variational) Bayesian Methods.pdf
+2025-05-06 18:03:17,061 - INFO - Processed: A Rigorous Link between Deep Ensembles and (Variational) Bayesian Methods
+2025-05-06 18:03:17,160 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Task Arithmetic in the Tangent Space_ Improved Editing of Pre-Trained Models.pdf
+2025-05-06 18:03:17,166 - INFO - Processed: Task Arithmetic in the Tangent Space: Improved Editing of Pre-Trained Models
+2025-05-06 18:03:17,230 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Bridging RL Theory and Practice with the Effective Horizon.pdf
+2025-05-06 18:03:17,235 - INFO - Processed: Bridging RL Theory and Practice with the Effective Horizon
+2025-05-06 18:03:17,258 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Image Captioners Are Scalable Vision Learners Too.pdf
+2025-05-06 18:03:17,263 - INFO - Processed: Image Captioners Are Scalable Vision Learners Too
+2025-05-06 18:03:17,376 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Random Cuts are Optimal for Explainable k-Medians.pdf
+2025-05-06 18:03:17,382 - INFO - Processed: Random Cuts are Optimal for Explainable k-Medians
+2025-05-06 18:03:17,412 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Online RL in Linearly $q^_pi$-Realizable MDPs Is as Easy as in Linear MDPs If You Learn What to Ignore.pdf
+2025-05-06 18:03:17,417 - INFO - Processed: Online RL in Linearly $q^\pi$-Realizable MDPs Is as Easy as in Linear MDPs If You Learn What to Ignore
+2025-05-06 18:03:17,463 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/A U-turn on Double Descent_ Rethinking Parameter Counting in Statistical Learning.pdf
+2025-05-06 18:03:17,468 - INFO - Processed: A U-turn on Double Descent: Rethinking Parameter Counting in Statistical Learning
+2025-05-06 18:03:17,571 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Characteristic Circuits.pdf
+2025-05-06 18:03:17,576 - INFO - Processed: Characteristic Circuits
+2025-05-06 18:03:17,623 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/DecodingTrust_ A Comprehensive Assessment of Trustworthiness in GPT Models.pdf
+2025-05-06 18:03:17,628 - INFO - Processed: DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models
+2025-05-06 18:03:17,659 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Scaling Data-Constrained Language Models.pdf
+2025-05-06 18:03:17,663 - INFO - Processed: Scaling Data-Constrained Language Models
+2025-05-06 18:03:17,747 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Additive Decoders for Latent Variables Identification and Cartesian-Product Extrapolation.pdf
+2025-05-06 18:03:17,753 - INFO - Processed: Additive Decoders for Latent Variables Identification and Cartesian-Product Extrapolation
+2025-05-06 18:03:17,812 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Conformal Meta-learners for Predictive Inference of Individual Treatment Effects.pdf
+2025-05-06 18:03:17,817 - INFO - Processed: Conformal Meta-learners for Predictive Inference of Individual Treatment Effects
+2025-05-06 18:03:17,836 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Private Everlasting Prediction.pdf
+2025-05-06 18:03:17,840 - INFO - Processed: Private Everlasting Prediction
+2025-05-06 18:03:17,927 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Human-like Few-Shot Learning via Bayesian Reasoning over Natural Language.pdf
+2025-05-06 18:03:17,932 - INFO - Processed: Human-like Few-Shot Learning via Bayesian Reasoning over Natural Language
+2025-05-06 18:03:18,001 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Learning Transformer Programs.pdf
+2025-05-06 18:03:18,006 - INFO - Processed: Learning Transformer Programs
+2025-05-06 18:03:18,015 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/DiffuseBot_ Breeding Soft Robots With Physics-Augmented Generative Diffusion Models.pdf
+2025-05-06 18:03:18,019 - INFO - Processed: DiffuseBot: Breeding Soft Robots With Physics-Augmented Generative Diffusion Models
+2025-05-06 18:03:18,100 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Generalizing Nonlinear ICA Beyond Structural Sparsity.pdf
+2025-05-06 18:03:18,105 - INFO - Processed: Generalizing Nonlinear ICA Beyond Structural Sparsity
+2025-05-06 18:03:18,182 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Quilt-1M_ One Million Image-Text Pairs for Histopathology.pdf
+2025-05-06 18:03:18,188 - INFO - Processed: Quilt-1M: One Million Image-Text Pairs for Histopathology
+2025-05-06 18:03:18,201 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Transformers as Statisticians_ Provable In-Context Learning with In-Context Algorithm Selection.pdf
+2025-05-06 18:03:18,206 - INFO - Processed: Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection
+2025-05-06 18:03:18,287 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Evaluating Post-hoc Explanations for Graph Neural Networks via Robustness Analysis.pdf
+2025-05-06 18:03:18,290 - INFO - Processed: Evaluating Post-hoc Explanations for Graph Neural Networks via Robustness Analysis
+2025-05-06 18:03:18,355 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Ethical Considerations for Responsible Data Curation.pdf
+2025-05-06 18:03:18,358 - INFO - Processed: Ethical Considerations for Responsible Data Curation
+2025-05-06 18:03:18,370 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/DataComp_ In search of the next generation of multimodal datasets.pdf
+2025-05-06 18:03:18,374 - INFO - Processed: DataComp: In search of the next generation of multimodal datasets
+2025-05-06 18:03:18,468 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Optimizing Solution-Samplers for Combinatorial Problems_ The Landscape of Policy-Gradient Method.pdf
+2025-05-06 18:03:18,472 - INFO - Processed: Optimizing Solution-Samplers for Combinatorial Problems: The Landscape of Policy-Gradient Method
+2025-05-06 18:03:18,542 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Direct Preference Optimization_ Your Language Model is Secretly a Reward Model.pdf
+2025-05-06 18:03:18,546 - INFO - Processed: Direct Preference Optimization: Your Language Model is Secretly a Reward Model
+2025-05-06 18:03:18,554 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/The Clock and the Pizza_ Two Stories in Mechanistic Explanation of Neural Networks.pdf
+2025-05-06 18:03:18,558 - INFO - Processed: The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks
+2025-05-06 18:03:18,661 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/The Surprising Effectiveness of Diffusion Models for Optical Flow and Monocular Depth Estimation.pdf
+2025-05-06 18:03:18,665 - INFO - Processed: The Surprising Effectiveness of Diffusion Models for Optical Flow and Monocular Depth Estimation
+2025-05-06 18:03:18,709 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Tester-Learners for Halfspaces_ Universal Algorithms.pdf
+2025-05-06 18:03:18,712 - INFO - Processed: Tester-Learners for Halfspaces: Universal Algorithms
+2025-05-06 18:03:18,737 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Bridging Discrete and Backpropagation_ Straight-Through and Beyond.pdf
+2025-05-06 18:03:18,741 - INFO - Processed: Bridging Discrete and Backpropagation: Straight-Through and Beyond
+2025-05-06 18:03:18,874 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Emergence of Shape Bias in Convolutional Neural Networks through Activation Sparsity.pdf
+2025-05-06 18:03:18,878 - INFO - Processed: Emergence of Shape Bias in Convolutional Neural Networks through Activation Sparsity
+2025-05-06 18:03:18,917 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/User-Level Differential Privacy With Few Examples Per User.pdf
+2025-05-06 18:03:18,922 - INFO - Processed: User-Level Differential Privacy With Few Examples Per User
+2025-05-06 18:03:18,968 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Causal normalizing flows_ from theory to practice.pdf
+2025-05-06 18:03:18,972 - INFO - Processed: Causal normalizing flows: from theory to practice
+2025-05-06 18:03:19,056 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Fine-Tuning Language Models with Just Forward Passes.pdf
+2025-05-06 18:03:19,059 - INFO - Processed: Fine-Tuning Language Models with Just Forward Passes
+2025-05-06 18:03:19,102 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/BEDD_ The MineRL BASALT Evaluation and Demonstrations Dataset for Training and Benchmarking Agents that Solve Fuzzy Tasks.pdf
+2025-05-06 18:03:19,105 - INFO - Processed: BEDD: The MineRL BASALT Evaluation and Demonstrations Dataset for Training and Benchmarking Agents that Solve Fuzzy Tasks
+2025-05-06 18:03:19,135 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Towards Revealing the Mystery behind Chain of Thought_ A Theoretical Perspective.pdf
+2025-05-06 18:03:19,139 - INFO - Processed: Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective
+2025-05-06 18:03:19,234 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/MetaBox_ A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning.pdf
+2025-05-06 18:03:19,238 - INFO - Processed: MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning
+2025-05-06 18:03:19,308 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Jailbroken_ How Does LLM Safety Training Fail_.pdf
+2025-05-06 18:03:19,312 - INFO - Processed: Jailbroken: How Does LLM Safety Training Fail?
+2025-05-06 18:03:19,325 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Spatial-frequency channels, shape bias, and adversarial robustness.pdf
+2025-05-06 18:03:19,329 - INFO - Processed: Spatial-frequency channels, shape bias, and adversarial robustness
+2025-05-06 18:03:19,427 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Improved Algorithms for Stochastic Linear Bandits Using Tail Bounds for Martingale Mixtures.pdf
+2025-05-06 18:03:19,433 - INFO - Processed: Improved Algorithms for Stochastic Linear Bandits Using Tail Bounds for Martingale Mixtures
+2025-05-06 18:03:46,505 - INFO - Found 24 orals for https://neurips.cc/virtual/2024/calendar
+2025-05-06 18:03:48,634 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Learning to grok_ Emergence of in-context learning and skill composition in modular arithmetic tasks.pdf
+2025-05-06 18:03:48,637 - INFO - Processed: Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks
+2025-05-06 18:03:48,801 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Generalization Error Bounds for Two-stage Recommender Systems with Tree Structure.pdf
+2025-05-06 18:03:48,804 - INFO - Processed: Generalization Error Bounds for Two-stage Recommender Systems with Tree Structure
+2025-05-06 18:03:48,878 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/The Road Less Scheduled.pdf
+2025-05-06 18:03:48,881 - INFO - Processed: The Road Less Scheduled
+2025-05-06 18:03:48,888 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Human Expertise in Algorithmic Prediction.pdf
+2025-05-06 18:03:48,891 - INFO - Processed: Human Expertise in Algorithmic Prediction
+2025-05-06 18:03:49,043 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/RL-GPT_ Integrating Reinforcement Learning and Code-as-policy.pdf
+2025-05-06 18:03:49,047 - INFO - Processed: RL-GPT: Integrating Reinforcement Learning and Code-as-policy
+2025-05-06 18:03:49,125 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Improving Environment Novelty Quantification for Effective Unsupervised Environment Design.pdf
+2025-05-06 18:03:49,128 - INFO - Processed: Improving Environment Novelty Quantification for Effective Unsupervised Environment Design
+2025-05-06 18:03:49,135 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Enhancing Preference-based Linear Bandits via Human Response Time.pdf
+2025-05-06 18:03:49,138 - INFO - Processed: Enhancing Preference-based Linear Bandits via Human Response Time
+2025-05-06 18:03:49,297 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Span-Based Optimal Sample Complexity for Weakly Communicating and General Average Reward MDPs.pdf
+2025-05-06 18:03:49,301 - INFO - Processed: Span-Based Optimal Sample Complexity for Weakly Communicating and General Average Reward MDPs
+2025-05-06 18:03:49,368 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Not All Tokens Are What You Need for Pretraining.pdf
+2025-05-06 18:03:49,374 - INFO - Processed: Not All Tokens Are What You Need for Pretraining
+2025-05-06 18:03:49,386 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Cracking the Code of Juxtaposition_ Can AI Models Understand the Humorous Contradictions.pdf
+2025-05-06 18:03:49,391 - INFO - Processed: Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions
+2025-05-06 18:03:49,528 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/PV-Tuning_ Beyond Straight-Through Estimation for Extreme LLM Compression.pdf
+2025-05-06 18:03:49,534 - INFO - Processed: PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression
+2025-05-06 18:03:49,607 - INFO - Processed: DevBench: A multimodal developmental benchmark for language learning
+2025-05-06 18:03:49,617 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Divide-and-Conquer Meets Consensus_ Unleashing the Power of Functions in Code Generation.pdf
+2025-05-06 18:03:49,622 - INFO - Processed: Divide-and-Conquer Meets Consensus: Unleashing the Power of Functions in Code Generation
+2025-05-06 18:03:49,766 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/CAT3D_ Create Anything in 3D with Multi-View Diffusion Models.pdf
+2025-05-06 18:03:49,772 - INFO - Processed: CAT3D: Create Anything in 3D with Multi-View Diffusion Models
+2025-05-06 18:03:49,840 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/DenoiseRep_ Denoising Model for Representation Learning.pdf
+2025-05-06 18:03:49,846 - INFO - Processed: DenoiseRep: Denoising Model for Representation Learning
+2025-05-06 18:03:49,856 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/GIC_ Gaussian-Informed Continuum for Physical Property Identification and Simulation.pdf
+2025-05-06 18:03:49,861 - INFO - Processed: GIC: Gaussian-Informed Continuum for Physical Property Identification and Simulation
+2025-05-06 18:03:50,035 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Learning rigid-body simulators over implicit shapes for large-scale scenes and vision.pdf
+2025-05-06 18:03:50,041 - INFO - Processed: Learning rigid-body simulators over implicit shapes for large-scale scenes and vision
+2025-05-06 18:03:50,068 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Exploitation of a Latent Mechanism in Graph Contrastive Learning_ Representation Scattering.pdf
+2025-05-06 18:03:50,073 - INFO - Processed: Exploitation of a Latent Mechanism in Graph Contrastive Learning: Representation Scattering
+2025-05-06 18:03:50,089 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Flipped Classroom_ Aligning Teacher Attention with Student in Generalized Category Discovery.pdf
+2025-05-06 18:03:50,093 - INFO - Processed: Flipped Classroom: Aligning Teacher Attention with Student in Generalized Category Discovery
+2025-05-06 18:03:50,286 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Get Rid of Isolation_ A Continuous Multi-task Spatio-Temporal Learning Framework.pdf
+2025-05-06 18:03:50,292 - INFO - Processed: Get Rid of Isolation: A Continuous Multi-task Spatio-Temporal Learning Framework
+2025-05-06 18:03:50,306 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Neural Pfaffians_ Solving Many Many-Electron Schrödinger Equations.pdf
+2025-05-06 18:03:50,311 - INFO - Processed: Neural Pfaffians: Solving Many Many-Electron Schrödinger Equations
+2025-05-06 18:03:50,322 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Aligner_ Efficient Alignment by Learning to Correct.pdf
+2025-05-06 18:03:50,326 - INFO - Processed: Aligner: Efficient Alignment by Learning to Correct
+2025-05-06 18:03:50,519 - INFO - Processed: MedCalc-Bench: Evaluating Large Language Models for Medical Calculations
+2025-05-06 18:03:50,528 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Trading Place for Space_ Increasing Location Resolution Reduces Contextual Capacity in Hippocampal Codes.pdf
+2025-05-06 18:03:50,531 - INFO - Processed: Trading Place for Space: Increasing Location Resolution Reduces Contextual Capacity in Hippocampal Codes
+2025-05-06 18:03:50,548 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/DapperFL_ Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices.pdf
+2025-05-06 18:03:50,552 - INFO - Processed: DapperFL: Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices
+2025-05-06 18:03:50,756 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Learning diffusion at lightspeed.pdf
+2025-05-06 18:03:50,762 - INFO - Processed: Learning diffusion at lightspeed
+2025-05-06 18:03:50,773 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Optimal Parallelization of Boosting.pdf
+2025-05-06 18:03:50,778 - INFO - Processed: Optimal Parallelization of Boosting
+2025-05-06 18:03:50,787 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/RG-SAN_ Rule-Guided Spatial Awareness Network for End-to-End 3D Referring Expression Segmentation.pdf
+2025-05-06 18:03:50,791 - INFO - Processed: RG-SAN: Rule-Guided Spatial Awareness Network for End-to-End 3D Referring Expression Segmentation
+2025-05-06 18:03:50,986 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Statistical Efficiency of Distributional Temporal Difference Learning.pdf
+2025-05-06 18:03:50,992 - INFO - Processed: Statistical Efficiency of Distributional Temporal Difference Learning
+2025-05-06 18:03:51,005 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/The Sample-Communication Complexity Trade-off in Federated Q-Learning.pdf
+2025-05-06 18:03:51,010 - INFO - Processed: The Sample-Communication Complexity Trade-off in Federated Q-Learning
+2025-05-06 18:03:51,025 - INFO - Processed: Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making
+2025-05-06 18:03:51,217 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/VASA-1_ Lifelike Audio-Driven Talking Faces Generated in Real Time.pdf
+2025-05-06 18:03:51,223 - INFO - Processed: VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time
+2025-05-06 18:03:51,244 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Return of Unconditional Generation_ A Self-supervised Representation Generation Method.pdf
+2025-05-06 18:03:51,249 - INFO - Processed: Return of Unconditional Generation: A Self-supervised Representation Generation Method
+2025-05-06 18:03:51,258 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Decompose, Analyze and Rethink_ Solving Intricate Problems with Human-like Reasoning Cycle.pdf
+2025-05-06 18:03:51,263 - INFO - Processed: Decompose, Analyze and Rethink: Solving Intricate Problems with Human-like Reasoning Cycle
+2025-05-06 18:03:51,464 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/LLM Evaluators Recognize and Favor Their Own Generations.pdf
+2025-05-06 18:03:51,471 - INFO - Processed: LLM Evaluators Recognize and Favor Their Own Generations
+2025-05-06 18:03:51,486 - INFO - Processed: CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark
+2025-05-06 18:03:51,495 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/DuQuant_ Distributing Outliers via Dual Transformation Makes Stronger Quantized LLMs.pdf
+2025-05-06 18:03:51,499 - INFO - Processed: DuQuant: Distributing Outliers via Dual Transformation Makes Stronger Quantized LLMs
+2025-05-06 18:03:51,699 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Stylus_ Automatic Adapter Selection for Diffusion Models.pdf
+2025-05-06 18:03:51,705 - INFO - Processed: Stylus: Automatic Adapter Selection for Diffusion Models
+2025-05-06 18:03:51,718 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Improved Distribution Matching Distillation for Fast Image Synthesis.pdf
+2025-05-06 18:03:51,723 - INFO - Processed: Improved Distribution Matching Distillation for Fast Image Synthesis
+2025-05-06 18:03:51,732 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/MeshFormer _ High-Quality Mesh Generation with 3D-Guided Reconstruction Model.pdf
+2025-05-06 18:03:51,736 - INFO - Processed: MeshFormer : High-Quality Mesh Generation with 3D-Guided Reconstruction Model
+2025-05-06 18:03:51,933 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Weisfeiler and Leman Go Loopy_ A New Hierarchy for Graph Representational Learning.pdf
+2025-05-06 18:03:51,939 - INFO - Processed: Weisfeiler and Leman Go Loopy: A New Hierarchy for Graph Representational Learning
+2025-05-06 18:03:51,954 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Convolutional Differentiable Logic Gate Networks.pdf
+2025-05-06 18:03:51,959 - INFO - Processed: Convolutional Differentiable Logic Gate Networks
+2025-05-06 18:03:51,969 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Do Finetti_ On Causal Effects for Exchangeable Data.pdf
+2025-05-06 18:03:51,973 - INFO - Processed: Do Finetti: On Causal Effects for Exchangeable Data
+2025-05-06 18:03:52,164 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/MDAgents_ An Adaptive Collaboration of LLMs for Medical Decision-Making.pdf
+2025-05-06 18:03:52,169 - INFO - Processed: MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making
+2025-05-06 18:03:52,180 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Stochastic Taylor Derivative Estimator_ Efficient amortization for arbitrary differential operators.pdf
+2025-05-06 18:03:52,184 - INFO - Processed: Stochastic Taylor Derivative Estimator: Efficient amortization for arbitrary differential operators
+2025-05-06 18:03:52,214 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Bayesian-guided Label Mapping for Visual Reprogramming.pdf
+2025-05-06 18:03:52,218 - INFO - Processed: Bayesian-guided Label Mapping for Visual Reprogramming
+2025-05-06 18:03:52,406 - INFO - Processed: Brain Treebank: Large-scale intracranial recordings from naturalistic language stimuli
+2025-05-06 18:03:52,454 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/NeuroClips_ Towards High-fidelity and Smooth fMRI-to-Video Reconstruction.pdf
+2025-05-06 18:03:52,459 - INFO - Processed: NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction
+2025-05-06 18:03:52,467 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/You Only Cache Once_ Decoder-Decoder Architectures for Language Models.pdf
+2025-05-06 18:03:52,472 - INFO - Processed: You Only Cache Once: Decoder-Decoder Architectures for Language Models
+2025-05-06 18:03:52,615 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Reinforcement Learning Under Latent Dynamics_ Toward Statistical and Algorithmic Modularity.pdf
+2025-05-06 18:03:52,621 - INFO - Processed: Reinforcement Learning Under Latent Dynamics: Toward Statistical and Algorithmic Modularity
+2025-05-06 18:03:52,759 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Achieving Optimal Clustering in Gaussian Mixture Models with Anisotropic Covariance Structures.pdf
+2025-05-06 18:03:52,766 - INFO - Processed: Achieving Optimal Clustering in Gaussian Mixture Models with Anisotropic Covariance Structures
+2025-05-06 18:03:52,781 - INFO - Processed: The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models
+2025-05-06 18:03:52,849 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/SeeA__ Efficient Exploration-Enhanced A_ Search by Selective Sampling.pdf
+2025-05-06 18:03:52,855 - INFO - Processed: SeeA*: Efficient Exploration-Enhanced A* Search by Selective Sampling
+2025-05-06 18:03:53,010 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Policy Learning from Tutorial Books via Understanding, Rehearsing and Introspecting.pdf
+2025-05-06 18:03:53,016 - INFO - Processed: Policy Learning from Tutorial Books via Understanding, Rehearsing and Introspecting
+2025-05-06 18:03:53,031 - INFO - Processed: AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents
+2025-05-06 18:03:53,069 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Visual Autoregressive Modeling_ Scalable Image Generation via Next-Scale Prediction.pdf
+2025-05-06 18:03:53,074 - INFO - Processed: Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction
+2025-05-06 18:03:53,247 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/HydraLoRA_ An Asymmetric LoRA Architecture for Efficient Fine-Tuning.pdf
+2025-05-06 18:03:53,254 - INFO - Processed: HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning
+2025-05-06 18:03:53,265 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Questioning the Survey Responses of Large Language Models.pdf
+2025-05-06 18:03:53,269 - INFO - Processed: Questioning the Survey Responses of Large Language Models
+2025-05-06 18:03:53,294 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Unlocking the Capabilities of Thought_ A Reasoning Boundary Framework to Quantify and Optimize Chain-of-Thought.pdf
+2025-05-06 18:03:53,298 - INFO - Processed: Unlocking the Capabilities of Thought: A Reasoning Boundary Framework to Quantify and Optimize Chain-of-Thought
+2025-05-06 18:03:53,462 - INFO - Processed: LINGOLY: A Benchmark of Olympiad-Level Linguistic Reasoning Puzzles in Low Resource and Extinct Languages
+2025-05-06 18:03:53,541 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models.pdf
+2025-05-06 18:03:53,545 - INFO - Processed: Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models
+2025-05-06 18:03:53,552 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Guiding a Diffusion Model with a Bad Version of Itself.pdf
+2025-05-06 18:03:53,555 - INFO - Processed: Guiding a Diffusion Model with a Bad Version of Itself
+2025-05-06 18:03:53,730 - INFO - Processed: OpenMathInstruct-1: A 1.8 Million Math Instruction Tuning Dataset
+2025-05-06 18:03:53,906 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/E2E-MFD_ Towards End-to-End Synchronous Multimodal Fusion Detection.pdf
+2025-05-06 18:03:53,914 - INFO - Processed: E2E-MFD: Towards End-to-End Synchronous Multimodal Fusion Detection
+2025-05-06 18:03:53,925 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Scale Equivariant Graph Metanetworks.pdf
+2025-05-06 18:03:53,930 - INFO - Processed: Scale Equivariant Graph Metanetworks
+2025-05-06 18:03:53,940 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Cambrian-1_ A Fully Open, Vision-Centric Exploration of Multimodal LLMs.pdf
+2025-05-06 18:03:53,944 - INFO - Processed: Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs
+2025-05-06 18:03:54,138 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Graph Diffusion Transformers for Multi-Conditional Molecular Generation.pdf
+2025-05-06 18:03:54,144 - INFO - Processed: Graph Diffusion Transformers for Multi-Conditional Molecular Generation
+2025-05-06 18:03:54,158 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Identification and Estimation of the Bi-Directional MR with Some Invalid Instruments.pdf
+2025-05-06 18:03:54,163 - INFO - Processed: Identification and Estimation of the Bi-Directional MR with Some Invalid Instruments
+2025-05-06 18:03:54,222 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Learning Formal Mathematics From Intrinsic Motivation.pdf
+2025-05-06 18:03:54,227 - INFO - Processed: Learning Formal Mathematics From Intrinsic Motivation
+2025-05-06 18:03:54,346 - INFO - Processed: A Taxonomy of Challenges to Curating Fair Datasets
+2025-05-06 18:03:54,391 - INFO - Processed: ChaosBench: A Multi-Channel, Physics-Based Benchmark for Subseasonal-to-Seasonal Climate Prediction
+2025-05-06 18:03:54,438 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/MetaLA_ Unified Optimal Linear Approximation to Softmax Attention Map.pdf
+2025-05-06 18:03:54,443 - INFO - Processed: MetaLA: Unified Optimal Linear Approximation to Softmax Attention Map
+2025-05-06 21:00:38,586 - INFO - Found 24 orals for https://neurips.cc/virtual/2024/calendar
+2025-05-06 21:00:40,647 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Learning to grok_ Emergence of in-context learning and skill composition in modular arithmetic tasks.pdf
+2025-05-06 21:00:40,648 - INFO - Processed: Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks
+2025-05-06 21:00:40,797 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Generalization Error Bounds for Two-stage Recommender Systems with Tree Structure.pdf
+2025-05-06 21:00:40,797 - INFO - Processed: Generalization Error Bounds for Two-stage Recommender Systems with Tree Structure
+2025-05-06 21:00:40,861 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/The Road Less Scheduled.pdf
+2025-05-06 21:00:40,862 - INFO - Processed: The Road Less Scheduled
+2025-05-06 21:00:40,966 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Human Expertise in Algorithmic Prediction.pdf
+2025-05-06 21:00:40,967 - INFO - Processed: Human Expertise in Algorithmic Prediction
+2025-05-06 21:00:41,006 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Enhancing Preference-based Linear Bandits via Human Response Time.pdf
+2025-05-06 21:00:41,006 - INFO - Processed: Enhancing Preference-based Linear Bandits via Human Response Time
+2025-05-06 21:00:41,085 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Improving Environment Novelty Quantification for Effective Unsupervised Environment Design.pdf
+2025-05-06 21:00:41,085 - INFO - Processed: Improving Environment Novelty Quantification for Effective Unsupervised Environment Design
+2025-05-06 21:00:41,192 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/RL-GPT_ Integrating Reinforcement Learning and Code-as-policy.pdf
+2025-05-06 21:00:41,193 - INFO - Processed: RL-GPT: Integrating Reinforcement Learning and Code-as-policy
+2025-05-06 21:00:41,215 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Span-Based Optimal Sample Complexity for Weakly Communicating and General Average Reward MDPs.pdf
+2025-05-06 21:00:41,215 - INFO - Processed: Span-Based Optimal Sample Complexity for Weakly Communicating and General Average Reward MDPs
+2025-05-06 21:00:41,316 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Not All Tokens Are What You Need for Pretraining.pdf
+2025-05-06 21:00:41,316 - INFO - Processed: Not All Tokens Are What You Need for Pretraining
+2025-05-06 21:00:41,433 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Cracking the Code of Juxtaposition_ Can AI Models Understand the Humorous Contradictions.pdf
+2025-05-06 21:00:41,434 - INFO - Processed: Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions
+2025-05-06 21:00:41,458 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/PV-Tuning_ Beyond Straight-Through Estimation for Extreme LLM Compression.pdf
+2025-05-06 21:00:41,458 - INFO - Processed: PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression
+2025-05-06 21:00:41,567 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Divide-and-Conquer Meets Consensus_ Unleashing the Power of Functions in Code Generation.pdf
+2025-05-06 21:00:41,568 - INFO - Processed: Divide-and-Conquer Meets Consensus: Unleashing the Power of Functions in Code Generation
+2025-05-06 21:00:41,740 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/CAT3D_ Create Anything in 3D with Multi-View Diffusion Models.pdf
+2025-05-06 21:00:41,740 - INFO - Processed: CAT3D: Create Anything in 3D with Multi-View Diffusion Models
+2025-05-06 21:00:41,833 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/DenoiseRep_ Denoising Model for Representation Learning.pdf
+2025-05-06 21:00:41,834 - INFO - Processed: DenoiseRep: Denoising Model for Representation Learning
+2025-05-06 21:00:41,949 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Learning rigid-body simulators over implicit shapes for large-scale scenes and vision.pdf
+2025-05-06 21:00:41,950 - INFO - Processed: Learning rigid-body simulators over implicit shapes for large-scale scenes and vision
+2025-05-06 21:00:41,962 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/GIC_ Gaussian-Informed Continuum for Physical Property Identification and Simulation.pdf
+2025-05-06 21:00:41,963 - INFO - Processed: GIC: Gaussian-Informed Continuum for Physical Property Identification and Simulation
+2025-05-06 21:00:42,068 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Exploitation of a Latent Mechanism in Graph Contrastive Learning_ Representation Scattering.pdf
+2025-05-06 21:00:42,069 - INFO - Processed: Exploitation of a Latent Mechanism in Graph Contrastive Learning: Representation Scattering
+2025-05-06 21:00:42,170 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Flipped Classroom_ Aligning Teacher Attention with Student in Generalized Category Discovery.pdf
+2025-05-06 21:00:42,172 - INFO - Processed: Flipped Classroom: Aligning Teacher Attention with Student in Generalized Category Discovery
+2025-05-06 21:00:42,183 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Get Rid of Isolation_ A Continuous Multi-task Spatio-Temporal Learning Framework.pdf
+2025-05-06 21:00:42,184 - INFO - Processed: Get Rid of Isolation: A Continuous Multi-task Spatio-Temporal Learning Framework
+2025-05-06 21:00:42,239 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Neural Pfaffians_ Solving Many Many-Electron Schrödinger Equations.pdf
+2025-05-06 21:00:42,240 - INFO - Processed: Neural Pfaffians: Solving Many Many-Electron Schrödinger Equations
+2025-05-06 21:00:42,399 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Aligner_ Efficient Alignment by Learning to Correct.pdf
+2025-05-06 21:00:42,401 - INFO - Processed: Aligner: Efficient Alignment by Learning to Correct
+2025-05-06 21:00:42,454 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/DapperFL_ Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices.pdf
+2025-05-06 21:00:42,456 - INFO - Processed: DapperFL: Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices
+2025-05-06 21:00:42,616 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Trading Place for Space_ Increasing Location Resolution Reduces Contextual Capacity in Hippocampal Codes.pdf
+2025-05-06 21:00:42,618 - INFO - Processed: Trading Place for Space: Increasing Location Resolution Reduces Contextual Capacity in Hippocampal Codes
+2025-05-06 21:00:42,754 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Optimal Parallelization of Boosting.pdf
+2025-05-06 21:00:42,756 - INFO - Processed: Optimal Parallelization of Boosting
+2025-05-06 21:00:42,767 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Learning diffusion at lightspeed.pdf
+2025-05-06 21:00:42,768 - INFO - Processed: Learning diffusion at lightspeed
+2025-05-06 21:00:42,890 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/RG-SAN_ Rule-Guided Spatial Awareness Network for End-to-End 3D Referring Expression Segmentation.pdf
+2025-05-06 21:00:42,892 - INFO - Processed: RG-SAN: Rule-Guided Spatial Awareness Network for End-to-End 3D Referring Expression Segmentation
+2025-05-06 21:00:43,010 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/The Sample-Communication Complexity Trade-off in Federated Q-Learning.pdf
+2025-05-06 21:00:43,011 - INFO - Processed: The Sample-Communication Complexity Trade-off in Federated Q-Learning
+2025-05-06 21:00:43,101 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Statistical Efficiency of Distributional Temporal Difference Learning.pdf
+2025-05-06 21:00:43,102 - INFO - Processed: Statistical Efficiency of Distributional Temporal Difference Learning
+2025-05-06 21:00:43,320 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Decompose, Analyze and Rethink_ Solving Intricate Problems with Human-like Reasoning Cycle.pdf
+2025-05-06 21:00:43,323 - INFO - Processed: Decompose, Analyze and Rethink: Solving Intricate Problems with Human-like Reasoning Cycle
+2025-05-06 21:00:43,412 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/VASA-1_ Lifelike Audio-Driven Talking Faces Generated in Real Time.pdf
+2025-05-06 21:00:43,414 - INFO - Processed: VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time
+2025-05-06 21:00:43,426 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Return of Unconditional Generation_ A Self-supervised Representation Generation Method.pdf
+2025-05-06 21:00:43,427 - INFO - Processed: Return of Unconditional Generation: A Self-supervised Representation Generation Method
+2025-05-06 21:00:43,427 - ERROR - Error downloading None: Constructor parameter should be str
+2025-05-06 21:00:43,429 - INFO - Processed: DevBench: A multimodal developmental benchmark for language learning
+2025-05-06 21:00:43,549 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/LLM Evaluators Recognize and Favor Their Own Generations.pdf
+2025-05-06 21:00:43,551 - INFO - Processed: LLM Evaluators Recognize and Favor Their Own Generations
+2025-05-06 21:00:43,756 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/DuQuant_ Distributing Outliers via Dual Transformation Makes Stronger Quantized LLMs.pdf
+2025-05-06 21:00:43,759 - INFO - Processed: DuQuant: Distributing Outliers via Dual Transformation Makes Stronger Quantized LLMs
+2025-05-06 21:00:43,770 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Stylus_ Automatic Adapter Selection for Diffusion Models.pdf
+2025-05-06 21:00:43,772 - INFO - Processed: Stylus: Automatic Adapter Selection for Diffusion Models
+2025-05-06 21:00:43,789 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Improved Distribution Matching Distillation for Fast Image Synthesis.pdf
+2025-05-06 21:00:43,791 - INFO - Processed: Improved Distribution Matching Distillation for Fast Image Synthesis
+2025-05-06 21:00:43,986 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Weisfeiler and Leman Go Loopy_ A New Hierarchy for Graph Representational Learning.pdf
+2025-05-06 21:00:43,987 - INFO - Processed: Weisfeiler and Leman Go Loopy: A New Hierarchy for Graph Representational Learning
+2025-05-06 21:00:43,996 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/MeshFormer _ High-Quality Mesh Generation with 3D-Guided Reconstruction Model.pdf
+2025-05-06 21:00:43,997 - INFO - Processed: MeshFormer : High-Quality Mesh Generation with 3D-Guided Reconstruction Model
+2025-05-06 21:00:44,005 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Do Finetti_ On Causal Effects for Exchangeable Data.pdf
+2025-05-06 21:00:44,007 - INFO - Processed: Do Finetti: On Causal Effects for Exchangeable Data
+2025-05-06 21:00:44,222 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Convolutional Differentiable Logic Gate Networks.pdf
+2025-05-06 21:00:44,224 - INFO - Processed: Convolutional Differentiable Logic Gate Networks
+2025-05-06 21:00:44,312 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/MDAgents_ An Adaptive Collaboration of LLMs for Medical Decision-Making.pdf
+2025-05-06 21:00:44,314 - INFO - Processed: MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making
+2025-05-06 21:00:44,314 - ERROR - Error downloading None: Constructor parameter should be str
+2025-05-06 21:00:44,317 - INFO - Processed: MedCalc-Bench: Evaluating Large Language Models for Medical Calculations
+2025-05-06 21:00:44,328 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Stochastic Taylor Derivative Estimator_ Efficient amortization for arbitrary differential operators.pdf
+2025-05-06 21:00:44,330 - INFO - Processed: Stochastic Taylor Derivative Estimator: Efficient amortization for arbitrary differential operators
+2025-05-06 21:00:44,501 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Bayesian-guided Label Mapping for Visual Reprogramming.pdf
+2025-05-06 21:00:44,503 - INFO - Processed: Bayesian-guided Label Mapping for Visual Reprogramming
+2025-05-06 21:00:44,559 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/NeuroClips_ Towards High-fidelity and Smooth fMRI-to-Video Reconstruction.pdf
+2025-05-06 21:00:44,561 - INFO - Processed: NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction
+2025-05-06 21:00:44,576 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/You Only Cache Once_ Decoder-Decoder Architectures for Language Models.pdf
+2025-05-06 21:00:44,578 - INFO - Processed: You Only Cache Once: Decoder-Decoder Architectures for Language Models
+2025-05-06 21:00:44,734 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Achieving Optimal Clustering in Gaussian Mixture Models with Anisotropic Covariance Structures.pdf
+2025-05-06 21:00:44,737 - INFO - Processed: Achieving Optimal Clustering in Gaussian Mixture Models with Anisotropic Covariance Structures
+2025-05-06 21:00:44,737 - ERROR - Error downloading None: Constructor parameter should be str
+2025-05-06 21:00:44,739 - INFO - Processed: Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making
+2025-05-06 21:00:44,779 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Reinforcement Learning Under Latent Dynamics_ Toward Statistical and Algorithmic Modularity.pdf
+2025-05-06 21:00:44,781 - INFO - Processed: Reinforcement Learning Under Latent Dynamics: Toward Statistical and Algorithmic Modularity
+2025-05-06 21:00:45,065 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Policy Learning from Tutorial Books via Understanding, Rehearsing and Introspecting.pdf
+2025-05-06 21:00:45,068 - INFO - Processed: Policy Learning from Tutorial Books via Understanding, Rehearsing and Introspecting
+2025-05-06 21:00:45,084 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/SeeA__ Efficient Exploration-Enhanced A_ Search by Selective Sampling.pdf
+2025-05-06 21:00:45,086 - INFO - Processed: SeeA*: Efficient Exploration-Enhanced A* Search by Selective Sampling
+2025-05-06 21:00:45,126 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Questioning the Survey Responses of Large Language Models.pdf
+2025-05-06 21:00:45,128 - INFO - Processed: Questioning the Survey Responses of Large Language Models
+2025-05-06 21:00:45,403 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Visual Autoregressive Modeling_ Scalable Image Generation via Next-Scale Prediction.pdf
+2025-05-06 21:00:45,405 - INFO - Processed: Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction
+2025-05-06 21:00:45,413 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/HydraLoRA_ An Asymmetric LoRA Architecture for Efficient Fine-Tuning.pdf
+2025-05-06 21:00:45,415 - INFO - Processed: HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning
+2025-05-06 21:00:45,648 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Guiding a Diffusion Model with a Bad Version of Itself.pdf
+2025-05-06 21:00:45,650 - INFO - Processed: Guiding a Diffusion Model with a Bad Version of Itself
+2025-05-06 21:00:45,687 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Unlocking the Capabilities of Thought_ A Reasoning Boundary Framework to Quantify and Optimize Chain-of-Thought.pdf
+2025-05-06 21:00:45,689 - INFO - Processed: Unlocking the Capabilities of Thought: A Reasoning Boundary Framework to Quantify and Optimize Chain-of-Thought
+2025-05-06 21:00:45,758 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models.pdf
+2025-05-06 21:00:45,760 - INFO - Processed: Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models
+2025-05-06 21:00:46,044 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Scale Equivariant Graph Metanetworks.pdf
+2025-05-06 21:00:46,052 - INFO - Processed: Scale Equivariant Graph Metanetworks
+2025-05-06 21:00:46,058 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/E2E-MFD_ Towards End-to-End Synchronous Multimodal Fusion Detection.pdf
+2025-05-06 21:00:46,060 - INFO - Processed: E2E-MFD: Towards End-to-End Synchronous Multimodal Fusion Detection
+2025-05-06 21:00:46,261 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Identification and Estimation of the Bi-Directional MR with Some Invalid Instruments.pdf
+2025-05-06 21:00:46,264 - INFO - Processed: Identification and Estimation of the Bi-Directional MR with Some Invalid Instruments
+2025-05-06 21:00:46,287 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Cambrian-1_ A Fully Open, Vision-Centric Exploration of Multimodal LLMs.pdf
+2025-05-06 21:00:46,289 - INFO - Processed: Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs
+2025-05-06 21:00:46,299 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Graph Diffusion Transformers for Multi-Conditional Molecular Generation.pdf
+2025-05-06 21:00:46,301 - INFO - Processed: Graph Diffusion Transformers for Multi-Conditional Molecular Generation
+2025-05-06 21:00:46,524 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Learning Formal Mathematics From Intrinsic Motivation.pdf
+2025-05-06 21:00:46,526 - INFO - Processed: Learning Formal Mathematics From Intrinsic Motivation
+2025-05-06 21:00:46,554 - ERROR - Error downloading None: Constructor parameter should be str
+2025-05-06 21:00:46,556 - INFO - Processed: The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models
+2025-05-06 21:00:46,556 - ERROR - Error downloading None: Constructor parameter should be str
+2025-05-06 21:00:46,557 - INFO - Processed: CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark
+2025-05-06 21:00:46,557 - ERROR - Error downloading None: Constructor parameter should be str
+2025-05-06 21:00:46,559 - INFO - Processed: OpenMathInstruct-1: A 1.8 Million Math Instruction Tuning Dataset
+2025-05-06 21:00:46,559 - ERROR - Error downloading None: Constructor parameter should be str
+2025-05-06 21:00:46,561 - INFO - Processed: Brain Treebank: Large-scale intracranial recordings from naturalistic language stimuli
+2025-05-06 21:00:46,561 - ERROR - Error downloading nan: Constructor parameter should be str
+2025-05-06 21:00:46,562 - INFO - Processed: A Taxonomy of Challenges to Curating Fair Datasets
+2025-05-06 21:00:46,739 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/MetaLA_ Unified Optimal Linear Approximation to Softmax Attention Map.pdf
+2025-05-06 21:00:46,742 - INFO - Processed: MetaLA: Unified Optimal Linear Approximation to Softmax Attention Map
+2025-05-06 21:00:46,829 - ERROR - Error downloading None: Constructor parameter should be str
+2025-05-06 21:00:46,831 - INFO - Processed: LINGOLY: A Benchmark of Olympiad-Level Linguistic Reasoning Puzzles in Low Resource and Extinct Languages
+2025-05-06 21:00:46,903 - ERROR - Error downloading None: Constructor parameter should be str
+2025-05-06 21:00:46,906 - INFO - Processed: AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents
+2025-05-06 21:00:46,977 - ERROR - Error downloading None: Constructor parameter should be str
+2025-05-06 21:00:46,979 - INFO - Processed: ChaosBench: A Multi-Channel, Physics-Based Benchmark for Subseasonal-to-Seasonal Climate Prediction
+2025-05-06 21:44:11,556 - INFO - Found 22 orals for https://neurips.cc/virtual/2023/calendar
+2025-05-06 21:44:13,597 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Ordering-based Conditions for Global Convergence of Policy Gradient Methods.pdf
+2025-05-06 21:44:13,602 - INFO - Processed: Ordering-based Conditions for Global Convergence of Policy Gradient Methods
+2025-05-06 21:44:13,613 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Sharpness Minimization Algorithms Do Not Only Minimize Sharpness To Achieve Better Generalization.pdf
+2025-05-06 21:44:13,615 - INFO - Processed: Sharpness Minimization Algorithms Do Not Only Minimize Sharpness To Achieve Better Generalization
+2025-05-06 21:44:13,625 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/How to Turn Your Knowledge Graph Embeddings into Generative Models.pdf
+2025-05-06 21:44:13,627 - INFO - Processed: How to Turn Your Knowledge Graph Embeddings into Generative Models
+2025-05-06 21:44:13,793 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/LeanDojo_ Theorem Proving with Retrieval-Augmented Language Models.pdf
+2025-05-06 21:44:13,797 - INFO - Processed: LeanDojo: Theorem Proving with Retrieval-Augmented Language Models
+2025-05-06 21:44:13,808 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Monarch Mixer_ A Simple Sub-Quadratic GEMM-Based Architecture.pdf
+2025-05-06 21:44:13,811 - INFO - Processed: Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture
+2025-05-06 21:44:13,820 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Rotating Features for Object Discovery.pdf
+2025-05-06 21:44:13,823 - INFO - Processed: Rotating Features for Object Discovery
+2025-05-06 21:44:13,988 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Learning Linear Causal Representations from Interventions under General Nonlinear Mixing.pdf
+2025-05-06 21:44:13,992 - INFO - Processed: Learning Linear Causal Representations from Interventions under General Nonlinear Mixing
+2025-05-06 21:44:14,027 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Nearly Tight Bounds For Differentially Private Multiway Cut.pdf
+2025-05-06 21:44:14,030 - INFO - Processed: Nearly Tight Bounds For Differentially Private Multiway Cut
+2025-05-06 21:44:14,038 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Brain Diffusion for Visual Exploration_ Cortical Discovery using Large Scale Generative Models.pdf
+2025-05-06 21:44:14,041 - INFO - Processed: Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models
+2025-05-06 21:44:14,186 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/ToolkenGPT_ Augmenting Frozen Language Models with Massive Tools via Tool Embeddings.pdf
+2025-05-06 21:44:14,190 - INFO - Processed: ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings
+2025-05-06 21:44:14,210 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Understanding Diffusion Objectives as the ELBO with Simple Data Augmentation.pdf
+2025-05-06 21:44:14,213 - INFO - Processed: Understanding Diffusion Objectives as the ELBO with Simple Data Augmentation
+2025-05-06 21:44:14,221 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/A Single-Loop Accelerated Extra-Gradient Difference Algorithm with Improved Complexity Bounds for Constrained Minimax Optimization.pdf
+2025-05-06 21:44:14,224 - INFO - Processed: A Single-Loop Accelerated Extra-Gradient Difference Algorithm with Improved Complexity Bounds for Constrained Minimax Optimization
+2025-05-06 21:44:14,375 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Mesogeos_ A multi-purpose dataset for data-driven wildfire modeling in the Mediterranean.pdf
+2025-05-06 21:44:14,379 - INFO - Processed: Mesogeos: A multi-purpose dataset for data-driven wildfire modeling in the Mediterranean
+2025-05-06 21:44:14,402 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Students Parrot Their Teachers_ Membership Inference on Model Distillation.pdf
+2025-05-06 21:44:14,405 - INFO - Processed: Students Parrot Their Teachers: Membership Inference on Model Distillation
+2025-05-06 21:44:14,413 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Why think step by step_ Reasoning emerges from the locality of experience.pdf
+2025-05-06 21:44:14,416 - INFO - Processed: Why think step by step? Reasoning emerges from the locality of experience
+2025-05-06 21:44:14,610 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Going beyond persistent homology using persistent homology.pdf
+2025-05-06 21:44:14,614 - INFO - Processed: Going beyond persistent homology using persistent homology
+2025-05-06 21:44:14,654 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Sampling from Gaussian Process Posteriors using Stochastic Gradient Descent.pdf
+2025-05-06 21:44:14,657 - INFO - Processed: Sampling from Gaussian Process Posteriors using Stochastic Gradient Descent
+2025-05-06 21:44:14,664 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Are Emergent Abilities of Large Language Models a Mirage_.pdf
+2025-05-06 21:44:14,666 - INFO - Processed: Are Emergent Abilities of Large Language Models a Mirage?
+2025-05-06 21:44:14,804 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Visual Instruction Tuning.pdf
+2025-05-06 21:44:14,807 - INFO - Processed: Visual Instruction Tuning
+2025-05-06 21:44:14,831 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Siamese Masked Autoencoders.pdf
+2025-05-06 21:44:14,834 - INFO - Processed: Siamese Masked Autoencoders
+2025-05-06 21:44:14,842 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/When Do Transformers Shine in RL_ Decoupling Memory from Credit Assignment.pdf
+2025-05-06 21:44:14,845 - INFO - Processed: When Do Transformers Shine in RL? Decoupling Memory from Credit Assignment
+2025-05-06 21:44:14,978 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/When Demonstrations meet Generative World Models_ A Maximum Likelihood Framework for Offline Inverse Reinforcement Learning.pdf
+2025-05-06 21:44:14,981 - INFO - Processed: When Demonstrations meet Generative World Models: A Maximum Likelihood Framework for Offline Inverse Reinforcement Learning
+2025-05-06 21:44:14,990 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Optimal Learners for Realizable Regression_ PAC Learning and Online Learning.pdf
+2025-05-06 21:44:14,993 - INFO - Processed: Optimal Learners for Realizable Regression: PAC Learning and Online Learning
+2025-05-06 21:44:15,023 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Abide by the law and follow the flow_ conservation laws for gradient flows.pdf
+2025-05-06 21:44:15,026 - INFO - Processed: Abide by the law and follow the flow: conservation laws for gradient flows
+2025-05-06 21:44:15,152 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Exact Bayesian Inference on Discrete Models via Probability Generating Functions_ A Probabilistic Programming Approach.pdf
+2025-05-06 21:44:15,156 - INFO - Processed: Exact Bayesian Inference on Discrete Models via Probability Generating Functions: A Probabilistic Programming Approach
+2025-05-06 21:44:15,177 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/OpenAssistant Conversations - Democratizing Large Language Model Alignment.pdf
+2025-05-06 21:44:15,180 - INFO - Processed: OpenAssistant Conversations - Democratizing Large Language Model Alignment
+2025-05-06 21:44:15,201 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/QLoRA_ Efficient Finetuning of Quantized LLMs.pdf
+2025-05-06 21:44:15,204 - INFO - Processed: QLoRA: Efficient Finetuning of Quantized LLMs
+2025-05-06 21:44:15,357 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Linguistic Binding in Diffusion Models_ Enhancing Attribute Correspondence through Attention Map Alignment.pdf
+2025-05-06 21:44:15,362 - INFO - Processed: Linguistic Binding in Diffusion Models: Enhancing Attribute Correspondence through Attention Map Alignment
+2025-05-06 21:44:15,379 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Privacy Auditing with One (1) Training Run.pdf
+2025-05-06 21:44:15,383 - INFO - Processed: Privacy Auditing with One (1) Training Run
+2025-05-06 21:44:15,392 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/A Measure-Theoretic Axiomatisation of Causality.pdf
+2025-05-06 21:44:15,395 - INFO - Processed: A Measure-Theoretic Axiomatisation of Causality
+2025-05-06 21:44:15,535 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Cinematic Mindscapes_ High-quality Video Reconstruction from Brain Activity.pdf
+2025-05-06 21:44:15,537 - INFO - Processed: Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity
+2025-05-06 21:44:15,559 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Toolformer_ Language Models Can Teach Themselves to Use Tools.pdf
+2025-05-06 21:44:15,562 - INFO - Processed: Toolformer: Language Models Can Teach Themselves to Use Tools
+2025-05-06 21:44:15,568 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Entropic Neural Optimal Transport via Diffusion Processes.pdf
+2025-05-06 21:44:15,570 - INFO - Processed: Entropic Neural Optimal Transport via Diffusion Processes
+2025-05-06 21:44:15,729 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Smoothing the Landscape Boosts the Signal for SGD_ Optimal Sample Complexity for Learning Single Index Models.pdf
+2025-05-06 21:44:15,733 - INFO - Processed: Smoothing the Landscape Boosts the Signal for SGD: Optimal Sample Complexity for Learning Single Index Models
+2025-05-06 21:44:15,749 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/ClimSim_ A large multi-scale dataset for hybrid physics-ML climate emulation.pdf
+2025-05-06 21:44:15,753 - INFO - Processed: ClimSim: A large multi-scale dataset for hybrid physics-ML climate emulation
+2025-05-06 21:44:15,761 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Rethinking Bias Mitigation_ Fairer Architectures Make for Fairer Face Recognition.pdf
+2025-05-06 21:44:15,764 - INFO - Processed: Rethinking Bias Mitigation: Fairer Architectures Make for Fairer Face Recognition
+2025-05-06 21:44:15,954 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Tree of Thoughts_ Deliberate Problem Solving with Large Language Models.pdf
+2025-05-06 21:44:15,959 - INFO - Processed: Tree of Thoughts: Deliberate Problem Solving with Large Language Models
+2025-05-06 21:44:15,970 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/A Rigorous Link between Deep Ensembles and (Variational) Bayesian Methods.pdf
+2025-05-06 21:44:15,975 - INFO - Processed: A Rigorous Link between Deep Ensembles and (Variational) Bayesian Methods
+2025-05-06 21:44:15,984 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Clifford Group Equivariant Neural Networks.pdf
+2025-05-06 21:44:15,987 - INFO - Processed: Clifford Group Equivariant Neural Networks
+2025-05-06 21:44:16,146 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Task Arithmetic in the Tangent Space_ Improved Editing of Pre-Trained Models.pdf
+2025-05-06 21:44:16,151 - INFO - Processed: Task Arithmetic in the Tangent Space: Improved Editing of Pre-Trained Models
+2025-05-06 21:44:16,162 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/EgoEnv_ Human-centric environment representations from egocentric video.pdf
+2025-05-06 21:44:16,166 - INFO - Processed: EgoEnv: Human-centric environment representations from egocentric video
+2025-05-06 21:44:16,175 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Image Captioners Are Scalable Vision Learners Too.pdf
+2025-05-06 21:44:16,179 - INFO - Processed: Image Captioners Are Scalable Vision Learners Too
+2025-05-06 21:44:16,328 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Bridging RL Theory and Practice with the Effective Horizon.pdf
+2025-05-06 21:44:16,332 - INFO - Processed: Bridging RL Theory and Practice with the Effective Horizon
+2025-05-06 21:44:16,352 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Online RL in Linearly $q^_pi$-Realizable MDPs Is as Easy as in Linear MDPs If You Learn What to Ignore.pdf
+2025-05-06 21:44:16,356 - INFO - Processed: Online RL in Linearly $q^\pi$-Realizable MDPs Is as Easy as in Linear MDPs If You Learn What to Ignore
+2025-05-06 21:44:16,365 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Random Cuts are Optimal for Explainable k-Medians.pdf
+2025-05-06 21:44:16,368 - INFO - Processed: Random Cuts are Optimal for Explainable k-Medians
+2025-05-06 21:44:16,523 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/A U-turn on Double Descent_ Rethinking Parameter Counting in Statistical Learning.pdf
+2025-05-06 21:44:16,528 - INFO - Processed: A U-turn on Double Descent: Rethinking Parameter Counting in Statistical Learning
+2025-05-06 21:44:16,542 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/DecodingTrust_ A Comprehensive Assessment of Trustworthiness in GPT Models.pdf
+2025-05-06 21:44:16,546 - INFO - Processed: DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models
+2025-05-06 21:44:16,554 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Characteristic Circuits.pdf
+2025-05-06 21:44:16,558 - INFO - Processed: Characteristic Circuits
+2025-05-06 21:44:16,718 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Scaling Data-Constrained Language Models.pdf
+2025-05-06 21:44:16,722 - INFO - Processed: Scaling Data-Constrained Language Models
+2025-05-06 21:44:16,731 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Additive Decoders for Latent Variables Identification and Cartesian-Product Extrapolation.pdf
+2025-05-06 21:44:16,735 - INFO - Processed: Additive Decoders for Latent Variables Identification and Cartesian-Product Extrapolation
+2025-05-06 21:44:16,749 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Private Everlasting Prediction.pdf
+2025-05-06 21:44:16,752 - INFO - Processed: Private Everlasting Prediction
+2025-05-06 21:44:16,911 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Conformal Meta-learners for Predictive Inference of Individual Treatment Effects.pdf
+2025-05-06 21:44:16,917 - INFO - Processed: Conformal Meta-learners for Predictive Inference of Individual Treatment Effects
+2025-05-06 21:44:16,927 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Human-like Few-Shot Learning via Bayesian Reasoning over Natural Language.pdf
+2025-05-06 21:44:16,931 - INFO - Processed: Human-like Few-Shot Learning via Bayesian Reasoning over Natural Language
+2025-05-06 21:44:16,940 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Learning Transformer Programs.pdf
+2025-05-06 21:44:16,945 - INFO - Processed: Learning Transformer Programs
+2025-05-06 21:44:17,117 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/DiffuseBot_ Breeding Soft Robots With Physics-Augmented Generative Diffusion Models.pdf
+2025-05-06 21:44:17,122 - INFO - Processed: DiffuseBot: Breeding Soft Robots With Physics-Augmented Generative Diffusion Models
+2025-05-06 21:44:17,135 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Quilt-1M_ One Million Image-Text Pairs for Histopathology.pdf
+2025-05-06 21:44:17,139 - INFO - Processed: Quilt-1M: One Million Image-Text Pairs for Histopathology
+2025-05-06 21:44:17,148 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Generalizing Nonlinear ICA Beyond Structural Sparsity.pdf
+2025-05-06 21:44:17,152 - INFO - Processed: Generalizing Nonlinear ICA Beyond Structural Sparsity
+2025-05-06 21:44:17,304 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Ethical Considerations for Responsible Data Curation.pdf
+2025-05-06 21:44:17,310 - INFO - Processed: Ethical Considerations for Responsible Data Curation
+2025-05-06 21:44:17,370 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Optimizing Solution-Samplers for Combinatorial Problems_ The Landscape of Policy-Gradient Method.pdf
+2025-05-06 21:44:17,375 - INFO - Processed: Optimizing Solution-Samplers for Combinatorial Problems: The Landscape of Policy-Gradient Method
+2025-05-06 21:44:17,385 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Transformers as Statisticians_ Provable In-Context Learning with In-Context Algorithm Selection.pdf
+2025-05-06 21:44:17,389 - INFO - Processed: Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection
+2025-05-06 21:44:17,502 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Evaluating Post-hoc Explanations for Graph Neural Networks via Robustness Analysis.pdf
+2025-05-06 21:44:17,507 - INFO - Processed: Evaluating Post-hoc Explanations for Graph Neural Networks via Robustness Analysis
+2025-05-06 21:44:17,606 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/The Clock and the Pizza_ Two Stories in Mechanistic Explanation of Neural Networks.pdf
+2025-05-06 21:44:17,612 - INFO - Processed: The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks
+2025-05-06 21:44:17,622 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/DataComp_ In search of the next generation of multimodal datasets.pdf
+2025-05-06 21:44:17,626 - INFO - Processed: DataComp: In search of the next generation of multimodal datasets
+2025-05-06 21:44:17,687 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/The Surprising Effectiveness of Diffusion Models for Optical Flow and Monocular Depth Estimation.pdf
+2025-05-06 21:44:17,691 - INFO - Processed: The Surprising Effectiveness of Diffusion Models for Optical Flow and Monocular Depth Estimation
+2025-05-06 21:44:17,860 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Direct Preference Optimization_ Your Language Model is Secretly a Reward Model.pdf
+2025-05-06 21:44:17,866 - INFO - Processed: Direct Preference Optimization: Your Language Model is Secretly a Reward Model
+2025-05-06 21:44:17,876 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Tester-Learners for Halfspaces_ Universal Algorithms.pdf
+2025-05-06 21:44:17,881 - INFO - Processed: Tester-Learners for Halfspaces: Universal Algorithms
+2025-05-06 21:44:17,914 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Bridging Discrete and Backpropagation_ Straight-Through and Beyond.pdf
+2025-05-06 21:44:17,919 - INFO - Processed: Bridging Discrete and Backpropagation: Straight-Through and Beyond
+2025-05-06 21:44:18,048 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Emergence of Shape Bias in Convolutional Neural Networks through Activation Sparsity.pdf
+2025-05-06 21:44:18,055 - INFO - Processed: Emergence of Shape Bias in Convolutional Neural Networks through Activation Sparsity
+2025-05-06 21:44:18,064 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/User-Level Differential Privacy With Few Examples Per User.pdf
+2025-05-06 21:44:18,069 - INFO - Processed: User-Level Differential Privacy With Few Examples Per User
+2025-05-06 21:44:18,104 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Causal normalizing flows_ from theory to practice.pdf
+2025-05-06 21:44:18,109 - INFO - Processed: Causal normalizing flows: from theory to practice
+2025-05-06 21:44:18,255 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/BEDD_ The MineRL BASALT Evaluation and Demonstrations Dataset for Training and Benchmarking Agents that Solve Fuzzy Tasks.pdf
+2025-05-06 21:44:18,258 - INFO - Processed: BEDD: The MineRL BASALT Evaluation and Demonstrations Dataset for Training and Benchmarking Agents that Solve Fuzzy Tasks
+2025-05-06 21:44:18,325 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Fine-Tuning Language Models with Just Forward Passes.pdf
+2025-05-06 21:44:18,330 - INFO - Processed: Fine-Tuning Language Models with Just Forward Passes
+2025-05-06 21:44:18,337 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Towards Revealing the Mystery behind Chain of Thought_ A Theoretical Perspective.pdf
+2025-05-06 21:44:18,340 - INFO - Processed: Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective
+2025-05-06 21:44:18,435 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Jailbroken_ How Does LLM Safety Training Fail_.pdf
+2025-05-06 21:44:18,439 - INFO - Processed: Jailbroken: How Does LLM Safety Training Fail?
+2025-05-06 21:44:18,508 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Spatial-frequency channels, shape bias, and adversarial robustness.pdf
+2025-05-06 21:44:18,511 - INFO - Processed: Spatial-frequency channels, shape bias, and adversarial robustness
+2025-05-06 21:44:18,518 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/MetaBox_ A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning.pdf
+2025-05-06 21:44:18,521 - INFO - Processed: MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning
+2025-05-06 21:44:18,637 - INFO - Skipping existing PDF: downloaded_pdfs_neurips/Improved Algorithms for Stochastic Linear Bandits Using Tail Bounds for Martingale Mixtures.pdf
+2025-05-06 21:44:18,640 - INFO - Processed: Improved Algorithms for Stochastic Linear Bandits Using Tail Bounds for Martingale Mixtures

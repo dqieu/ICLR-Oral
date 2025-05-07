@@ -5,21 +5,17 @@ import csv
 import logging
 import ssl
 import re
-import requests
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 from asyncio import Semaphore
-import pandas as pd
 
-from neurips_scraper import save_metadata
-
-# YEARS = [2021, 2022, 2023, 2024]
+# YEARS = [2023, 2024]
 YEARS = [2023]  # doing year by year to avoid OpenReview Limit
-BASE_URL = "https://iclr.cc"
-DOWNLOAD_DIR = "downloaded_pdfs"
-CSV_FILE = "papers.csv"
+BASE_URL = "https://neurips.cc"
+DOWNLOAD_DIR = "downloaded_pdfs_neurips"
+CSV_FILE = "papers_neurips.csv"
 MAX_CONCURRENT_REQUESTS = 3  # Reduced from 5 to avoid overwhelming the server
-TIMEOUT = aiohttp.ClientTimeout(total=30)  # 30 second timeout
+TIMEOUT = aiohttp.ClientTimeout(total=30)  # 30-second timeout
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (compatible; NeurIPSBot/1.0; +http://example.com)'
@@ -73,7 +69,7 @@ async def fetch_html(session, url):
 
 
 async def get_oral_links(session, url):
-    """Get all the oral links from a given year. Verified to work for 2021-2024.
+    """Get all the oral links from a given year. Verified to work for ICLR 2021-2024.
     url: link to schedule of the target year
     """
     html = await fetch_html(session, url)
@@ -135,14 +131,12 @@ async def download_pdf(session, url, title):
             logging.error(f"Error downloading {url}: {e}")
 
 
-def forum_to_pdf_link(forum_url=None, title=None, df=None):
+def forum_to_pdf_link(forum_url=None):
     """
     Convert OpenReview forum URL or title to a direct PDF URL.
 
     Args:
         forum_url (str): Forum URL like 'https://openreview.net/forum?id=abc123'
-        title (str): Title of the paper to match in df if no URL is provided
-        df (pd.DataFrame): DataFrame with title and id fields
 
     Returns:
         str or None: Direct link to the PDF file
@@ -150,45 +144,10 @@ def forum_to_pdf_link(forum_url=None, title=None, df=None):
     if forum_url:
         return forum_url.replace('/forum?', '/pdf?')
 
-    if title and df is not None:
-        paper_id = get_id_by_title(df, title)
-        if paper_id:
-            return f"https://openreview.net/pdf?id={paper_id}"
-
     return None
 
 
-def get_conference_notes(venue='ICLR.cc/2023/Conference',
-                         blind_submission=False):
-    """
-    Get all notes of a conference (data) from OpenReview API.
-    If results are not final, you should set blind_submission=True.
-    """
-
-    blind_param = '-/Blind_Submission' if blind_submission else ''
-    offset = 0
-    notes = []
-    while True:
-        print('Offset:', offset, 'Data:', len(notes))
-        url = f'https://api.openreview.net/notes?invitation={venue}/{blind_param}&offset={offset}'
-        response = requests.get(url)
-        data = response.json()
-        if len(data['notes']) == 0:
-            break
-        offset += 1000
-        notes.extend(data['notes'])
-    return pd.json_normalize(notes)
-
-
-def get_id_by_title(df, title, id_column="id", title_column='content.title'):
-    match = df[
-        df[title_column].str.strip().str.lower() == title.strip().lower()]
-    if not match.empty:
-        return match.iloc[0][id_column]
-    return None
-
-
-async def process_papers_from_orals(session, oral_url, pbar, df=None):
+async def process_papers_from_orals(session, oral_url, pbar):
     """Process a single paper and download it."""
     oral, papers = await get_paper_links(session, oral_url)
     for paper_url in papers:
@@ -223,15 +182,10 @@ async def process_papers_from_orals(session, oral_url, pbar, df=None):
                                None)  # pick first if exists
 
         # === 5. Get PDF ===
-        if df is not None:
-            id = get_id_by_title(df, title)
-            if id:
-                pdf_url = f"https://openreview.net/pdf?id={id}"
-                await download_pdf(session, pdf_url, title)
-        else:
-            pdf_url = forum_to_pdf_link(openreview_link, title)
-            if pdf_url:
-                await download_pdf(session, pdf_url, title)
+
+        pdf_url = forum_to_pdf_link(openreview_link)
+        if pdf_url:
+            await download_pdf(session, pdf_url, title)
 
         # === 6. Get Year ===
         year = None
@@ -247,7 +201,7 @@ async def process_papers_from_orals(session, oral_url, pbar, df=None):
             "openreview_url": openreview_link,
             "url": paper_url,
             "pdf_url": pdf_url,
-            "publisher": "ICLR",
+            "publisher": "NeurIPS",
             "session": oral,
             "year": year,
 
@@ -258,6 +212,32 @@ async def process_papers_from_orals(session, oral_url, pbar, df=None):
         logging.info(f"Processed: {title}")
 
     return None
+
+
+def save_metadata(metadata):
+    """Append paper metadata to the CSV file."""
+    fieldnames = ["author", "publisher",
+                  "title", "url", "year", "abstract", "session", "pdf_url",
+                  "openreview_url"]
+
+    file_exists = os.path.isfile(CSV_FILE)
+    rows = []
+
+    try:
+        if file_exists:
+            with open(CSV_FILE, "r", newline="", encoding="utf-8") as f:
+                reader = csv.DictReader(f)
+                rows = [row for row in reader if
+                        row['title'].strip() != metadata['title'].strip()]
+
+        rows.append(metadata)
+
+        with open(CSV_FILE, "w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=fieldnames)
+            writer.writeheader()
+            writer.writerows(rows)
+    except Exception as e:
+        logging.error(f"Error saving metadata: {e}")
 
 
 async def main():
@@ -277,14 +257,11 @@ async def main():
             year_url = f"{BASE_URL}/virtual/{year}/calendar"
             oral_links = await get_oral_links(session, year_url)
             logging.info(f"Found {len(oral_links)} orals for {year_url}")
-            df = get_conference_notes(
-                blind_submission=True) if year == 2023 else None
-
             with tqdm(
                     total=len(oral_links),
                     desc=f"Papers from {str(year)}"
             ) as pbar:
-                tasks = [process_papers_from_orals(session, oral_link, pbar, df)
+                tasks = [process_papers_from_orals(session, oral_link, pbar)
                          for oral_link in oral_links]
                 await asyncio.gather(*tasks)
                 await asyncio.sleep(0.5)
