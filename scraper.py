@@ -17,7 +17,7 @@ from neurips_scraper import save_metadata
 YEARS = [2023]  # doing year by year to avoid OpenReview Limit
 BASE_URL = "https://iclr.cc"
 DOWNLOAD_DIR = "downloaded_pdfs"
-CSV_FILE = "papers.csv"
+CSV_FILE = "papers_iclr_05062025.csv"
 MAX_CONCURRENT_REQUESTS = 3  # Reduced from 5 to avoid overwhelming the server
 TIMEOUT = aiohttp.ClientTimeout(total=30)  # 30 second timeout
 
@@ -222,14 +222,16 @@ async def process_papers_from_orals(session, oral_url, pbar, df=None):
         openreview_link = next(iter(filtered_links),
                                None)  # pick first if exists
 
-        # === 5. Get PDF ===
-        if df is not None:
+        # === 5. Get PDF and id ===
+        if df is not None: # For ICLR 2023, we get id from OpenReviewAPI
             id = get_id_by_title(df, title)
             if id:
                 pdf_url = f"https://openreview.net/pdf?id={id}"
                 await download_pdf(session, pdf_url, title)
-        else:
+
+        else: # else the pdf link is available on website
             pdf_url = forum_to_pdf_link(openreview_link, title)
+            id = pdf_url.split('id=')[-1] if pdf_url else None
             if pdf_url:
                 await download_pdf(session, pdf_url, title)
 
@@ -240,7 +242,14 @@ async def process_papers_from_orals(session, oral_url, pbar, df=None):
                 year = y
                 break
 
+        # === 7. Get forum content ===
+        forum_content = None
+        if id:
+            forum_content = await get_forum_content_ICLR(session, id, year)
+
+
         metadata = {
+            "id": id,
             "title": sanitize_filename(title),
             "author": authors,
             "abstract": abstract,
@@ -250,7 +259,7 @@ async def process_papers_from_orals(session, oral_url, pbar, df=None):
             "publisher": "ICLR",
             "session": oral,
             "year": year,
-
+            "forum_content": forum_content
         }
 
         save_metadata(metadata)
@@ -258,6 +267,24 @@ async def process_papers_from_orals(session, oral_url, pbar, df=None):
         logging.info(f"Processed: {title}")
 
     return None
+
+async def get_forum_content_ICLR(id, year):  # gotta run a few times since rate limit
+    if not id: return None
+
+    if year <= 2023: #change this to 2022 for neurips, 2023 for iclr
+        base_url = "https://api.openreview.net"
+    else:
+        base_url = "https://api2.openreview.net"
+
+    url = f"{base_url}/notes?forum={id}&{''}"
+
+    try:
+        response = requests.get(url, timeout=5)
+        data = response.json()
+        dicts_with_content = [item for item in data['notes'] if isinstance(item, dict) and 'content' in item]
+        return dicts_with_content
+    except:
+        return None
 
 
 async def main():

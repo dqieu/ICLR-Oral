@@ -5,6 +5,8 @@ import csv
 import logging
 import ssl
 import re
+
+import requests
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 from asyncio import Semaphore
@@ -146,6 +148,23 @@ def forum_to_pdf_link(forum_url=None):
 
     return None
 
+async def get_forum_content_neurips(session, id, year):  # gotta run a few times since rate limit
+    if not id: return None
+
+    if year <= 2022:
+        base_url = "https://api.openreview.net"
+    else:
+        base_url = "https://api2.openreview.net"
+
+    url = f"{base_url}/notes?forum={id}&{''}"
+
+    try:
+        response = requests.get(url, timeout=5)
+        data = response.json()
+        dicts_with_content = [item for item in data['notes'] if isinstance(item, dict) and 'content' in item]
+        return dicts_with_content
+    except:
+        return None
 
 async def process_papers_from_orals(session, oral_url, pbar):
     """Process a single paper and download it."""
@@ -181,9 +200,10 @@ async def process_papers_from_orals(session, oral_url, pbar):
         openreview_link = next(iter(filtered_links),
                                None)  # pick first if exists
 
-        # === 5. Get PDF ===
+        # === 5. Get PDF and id ===
 
         pdf_url = forum_to_pdf_link(openreview_link)
+        id = openreview_link.split('id=')[-1] if openreview_link else None
         if pdf_url:
             await download_pdf(session, pdf_url, title)
 
@@ -194,7 +214,12 @@ async def process_papers_from_orals(session, oral_url, pbar):
                 year = y
                 break
 
+        # === 7. Get forum content ===
+        forum_content = None
+        if id:
+            forum_content = await get_forum_content_neurips(session, id, year)
         metadata = {
+            "id": id,
             "title": sanitize_filename(title),
             "author": authors,
             "abstract": abstract,
@@ -216,7 +241,7 @@ async def process_papers_from_orals(session, oral_url, pbar):
 
 def save_metadata(metadata):
     """Append paper metadata to the CSV file."""
-    fieldnames = ["author", "publisher",
+    fieldnames = ["id", "author", "publisher",
                   "title", "url", "year", "abstract", "session", "pdf_url",
                   "openreview_url"]
 
